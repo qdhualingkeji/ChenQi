@@ -1,0 +1,150 @@
+<!doctype html>
+<html style="height: 100%;"><head>
+  <meta charset="utf-8" data-n-head="true">
+  <meta name="COSMOPlat门户" content="COSMOPlat门户" data-n-head="true" data-hid="COSMOPlat门户">
+  <link href="/favicon.ico" rel="icon" type="image/x-icon" data-n-head="true">
+  <script id="nt-core" src="visitor/js/bundle.min.js?siteid=kf_10024" charset="UTF-8"></script>
+  <script src="https://hm.baidu.com/hm.js?9922b78c7ff5ed23c61a5daf601f7cfb" data-n-head="true"></script>
+  <script src="https://assets.giocdn.com/2.1/gio.js" data-n-head="true"></script>
+  <script id="xiaonengjs" src="visitor/js/xiaoneng.js?siteid=kf_10024" data-n-head="true"></script>
+  <link href="_nuxt/ec74520de93fd2abfa2e.js" rel="preload" as="script">
+  <link href="_nuxt/25721acd0e0808a7be01.js" rel="preload" as="script">
+  <link href="_nuxt/ba009e322d6395fd2da6.css" rel="preload" as="style">
+  <link href="_nuxt/f9ef25b5b7c8cd11c41a.js" rel="preload" as="script">
+  <link href="_nuxt/2b084d168d2ff1a9f4bf.css" rel="preload" as="style">
+  <link href="_nuxt/688404e4c5929e4edef4.js" rel="preload" as="script">
+  <link href="_nuxt/07758364fba6332e9761.css" rel="preload" as="style">
+  <link href="_nuxt/bb5b4e2042c24dccbd2a.js" rel="preload" as="script">
+  <link href="_nuxt/e9f0b99a30ba434befaf.css" rel="preload" as="style">
+  <link href="_nuxt/438824c0f1a44ecfae37.js" rel="preload" as="script">
+  <link href="_nuxt/ba009e322d6395fd2da6.css" rel="stylesheet">
+  <link href="_nuxt/2b084d168d2ff1a9f4bf.css" rel="stylesheet">
+  <link href="_nuxt/07758364fba6332e9761.css" rel="stylesheet">
+  <link href="_nuxt/e9f0b99a30ba434befaf.css" rel="stylesheet">
+</head>
+<body style="height: 100%;">
+<!--__nuxt_start-->
+<div id="__nuxt">
+  <!--__layout_start-->
+  <div id="__layout">
+	   <div>
+		  <div data-v-b0677670="">
+			  <div class="myhover hidden-md-and-down" data-v-b0677670="">
+				  <div class="myheader" data-v-b0677670="">
+					  <div class="navigation nav-all-all navigationHide" data-v-b0677670="">
+						  <div class="nav-btn" style="height:59px">
+							  <div class="menu menuInit">
+								  <div></div> 
+								  <div></div> 
+								  <div></div>
+							  </div> 
+							  <div class="title">
+								平台<br>能力
+							  </div>
+						  </div> 
+						  <!---->
+					  </div> 
+					  <div id="line" data-v-b0677670="" class=""></div> 
+					  <div class="header-contain" data-v-b0677670="">
+							<div id="logo-icon" data-v-b0677670="" class="">
+								<img src="_nuxt/img/be31463.svg" alt="返回首页" class="logo" data-v-b0677670="" height="40">
+							</div> 
+							<div class="but-list" data-v-b0677670="">
+								<div class="but-style" data-v-b0677670="">
+									<div class="out-link" data-v-b0677670="">首页</div>
+								</div> 
+								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
+									<div class="out-link" data-v-b0677670="">产品介绍</div>
+								</div>				
+								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
+									<div class="out-link" data-v-b0677670="">关于我们</div>
+								</div> 
+							</div>
+					  </div>
+				  </div> 			
+			  </div> 		  
+		  </div> 
+  
+  
+			  
+		
+		  <!--zpContainer_start-->
+		  <div class="zpContainer">
+			  <div id="cosmo_root">
+				  <div class="content" node="[object Object]">
+					  <div class="gateway_item">
+						  <div>
+							  <div>
+								  <div>
+									  <img class="img_bg img_bg_m" src="file/20190728/banner_da2a4716-cbb7-480a-bbee-4c9ac2f2c370.png" lazy="loaded" data-src="file/20190728/banner_da2a4716-cbb7-480a-bbee-4c9ac2f2c370.png" srcset="file/20190728/banner_da2a4716-cbb7-480a-bbee-4c9ac2f2c370.png 1023w, file/20190728/banner_da2a4716-cbb7-480a-bbee-4c9ac2f2c370.png">
+								  </div> 
+								  <div class="banner-title banner-title-m">
+									  <div class="container el-row">
+										  <div class="el-col el-col-24">
+											  <div class="banner-h1 banner-h1-m">
+												化工行业解决方案
+											  </div> 
+											  <div class="banner-entitle banner-entitle-m">
+												
+											  </div> 
+											  <div class="banner-titlep banner-titlep-m">
+												智慧化工解决方案通过智慧监控平台的建立，将原来分散、凌乱的业务系统在业务与数据两个层面实现全面整合，平台将科学的管理理念和先进的技术手段紧密结合起来，以提升区域的环境/人员/设备监管、综合治理和科学决策能力目标，对于化工企业实现信息化管理，进而实现化工企业智能化。
+											  </div> 
+											  <div class="banner-but banner-but-m">
+												  <button class="el-button banner-btn-m el-button--default is-plain" type="button">
+													  <!---->
+													  <!---->
+													  <span>方案咨询</span>
+												  </button> 
+												  <button class="el-button banner-m-two banner-btn-m el-button--default is-plain" type="button"><!----><!---->
+													<span>平台体验</span>
+												  </button> 
+												  <!---->
+											  </div>
+										  </div>
+									  </div>
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+					  <div class="gateway_item">
+						  <div class="cosmo_title cuba_components" data-v-38a36330="">
+							  <div class="container" data-v-38a36330="">
+								  <div class="wordWrap wordWrap_m" style="height: 72px; text-align: left; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px; font-size: 24px;" data-v-38a36330="">
+									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">解决方案架构</div>
+								  </div> 
+								  <div class="img-div" data-v-38a36330="">
+									<img class="cosmo_title_img cosmo_title_img_m" src="file/20190728/2_f7eae0ef-fcb8-4fd4-b49d-a824de8eb8e7.png" lazy="loaded" data-src="file/20190728/2_f7eae0ef-fcb8-4fd4-b49d-a824de8eb8e7.png" data-v-38a36330="" srcset="file/20190728/2_f7eae0ef-fcb8-4fd4-b49d-a824de8eb8e7.png 1023w, file/20190728/2_f7eae0ef-fcb8-4fd4-b49d-a824de8eb8e7.png">
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+					  <div class="gateway_item">
+						  <div class="cosmo_title cuba_components" data-v-38a36330="">
+							  <div class="container" data-v-38a36330="">
+								  <div class="wordWrap wordWrap_m" style="height: 72px; text-align: left; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px; font-size: 24px;" data-v-38a36330="">
+									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">实施案例</div>
+								  </div> 
+								  <div class="img-div" data-v-38a36330="">
+									<img class="cosmo_title_img cosmo_title_img_m" src="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png" lazy="loaded" data-src="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png" data-v-38a36330="" srcset="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png 1023w, file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png">
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+				  </div>
+			  </div>
+		  </div> 
+		  <!--zpContainer_end-->
+		  
+		  
+		  
+		  <div class="footer" data-v-fb83ed8e="">
+			  
+		  </div>
+	 </div>
+  </div>
+  <!--__layout_end-->
+</div>
+<!--__nuxt_end-->
+</body>
+</html>

@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    
+      <title>树根互联--中国工业互联网赋能平台</title>               
+      <meta name="keywords" content="树根互联--中国工业互联网赋能平台,树根互联、根云、工业互联网、智能制造、IIOT、数字化转型升级、工业AI大数据、智能厂线，设备智能售后服务、后市场服务、智能产线管理、机器在线管理、能源管理、能耗管理、产业链平台、设备融资、云mes、工业云、智能化改造、工业区块链、可视化大屏、设备资产管理,首页">
+      <meta name="description" content="树根互联--中国工业互联网赋能平台-树根互联是被全球广泛认可的国际化工业互联网赋能平台公司，平台已连接超过58万台工业设备，赋能超过70个工业细分领域，在后市场服务，智造中台，能耗管理，融资租赁及产业链服务等方面提供深度服务">
+								
+    <link href="public/css/animate.css?v=50cb8fe372c49223687396c4ae65dc2c" rel="stylesheet" type="text/css" />
+    <link href="css/site_impt_r.css?v=1574769761000" rel="stylesheet" type="text/css" />
+    <link href="css/ftmpl_impt_0f417d2c-c8fc-4cc1-adcc-0bf4400a5e4a.css?v=1574769761000" rel="stylesheet" type="text/css" />
+
+<link href="css/page_impt_home.css?v=1574769761000" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<script type="text/javascript">
+    window.siteIsPc=true;
+    window.foreignList= [];
+    window.tenant = {"resourcesPath":"","groupId":"GCGROUP20190904093558643","productInstanceId":226248,"language":"zh_CN","hotelDomain":"","oganize":"[\"1\"]","tennatCode":"100009_1909045011","publishPool":"","youyiProductName":"","mycat":"84","ningkerCusdomain":"","cusId":"","id":158676,"rem":"888444","hotelCusdomain":"","unittype":"100009","pool":"pool401","domains":[],"targetRem":"","makeDomain":"1909045011.pool401-bestsite.make.yun300.cn","mobileDomain":"","ceYun":true,"targetPool":"","mobileProductDomain":"","mobileStatus":8,"domain":"www.rootcloud.com","name":"","status":6,"productAttrId":0,"ningkerDomain":"DOMESTIC_TRADE","domainInfo":null,"pcPublishTime":{"date":26,"hours":20,"seconds":41,"month":10,"timezoneOffset":-480,"year":119,"minutes":2,"time":1574769761000,"day":2},"templateCode":"core_gcbest_site","tenantCode":"100009_1909045011","accessPool":"","bossProductInstance":"","foreign":false,"instanceList":[],"mobilePublishTime":null,"verify":"1f45341b61324bc91bb9077e70e4a40d","man":1,"attr":null,"productDomain":"1909045011.pool401-bestsite.yun300.cn","cdnFlag":"0","domainStatus":-1,"updateTime":{"date":26,"hours":19,"seconds":16,"month":10,"timezoneOffset":-480,"year":119,"minutes":53,"time":1574769196000,"day":2},"productInstanceCode":"NEWGC20190904093648","rusRoute":"","productInstance":null,"mobileMakeDomain":"","createTime":{"date":4,"hours":9,"seconds":39,"month":8,"timezoneOffset":-480,"year":119,"minutes":28,"time":1567560519000,"day":3},"appList":[],"tenantRelations":[]};
+    window.commonShortUrl = ("" == "") ? "" : "" + "/";
+    window.upgradeVersion="50cb8fe372c49223687396c4ae65dc2c";
+    var isxinnet = "false";
+    window.noredirectCookieName = "_noredirect";
+    var visittrack_siteId = "100009_1909045011";
+    var visittrack_url = "";
+    var gatherScripts = "";
+    var unittype=window.tenant.unittype ;
+    window.globalObj={};
+    window.globalObj.isOpenSSL = true;
+    try{
+        var setDomain = window.location.hostname.replace("http://", "").replace("https://", "");
+        if (setDomain.match(/[a-z]+/) != null) {
+            var domainArr = setDomain.split(".");
+            var preDomain=domainArr[domainArr.length - 2] + "."
+                + domainArr[domainArr.length - 1];
+            if(/(com|cn|org|net|xin|edu)\..*/.test(preDomain)){
+                preDomain=domainArr[domainArr.length - 3]+"."+domainArr[domainArr.length - 2] + "."
+                    + domainArr[domainArr.length - 1];
+            }
+            document.domain = preDomain;
+        }
+    }catch(e){
+        console.log(e);
+    }
+</script>
+<script type="text/javascript" src="public/wgt/coreLibs/interwords/interwords_interwords_zh_CN.min.js?v=50cb8fe372c49223687396c4ae65dc2c"></script>
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta name="applicable-device" content="pc,mobile" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="author" content="中企高呈www.cebest.com" />
+    <!--[if lt IE 9]> 
+<script src="https://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.js"></script>
+<![endif]-->
+    <link type="text/css" href="upload/css/animate.min.css" rel="stylesheet" />
+    <link type="text/css" href="upload/css/codehim-dropdown.css" rel="stylesheet" />
+    <link type="text/css" href="upload/css/font-awesome.min.css" rel="stylesheet" />
+    <link type="text/css" href="original/layui/css/layui.css" rel="stylesheet" />
+    <link type="text/css" href="upload/css/base.css?12" rel="stylesheet" />
+	<link type="text/css" href="group1/M00/18/CF/rBQBHF2EM3-ESC2dAAAAAIb-fUw670.css" rel="stylesheet">
+<link type="text/css" href="upload/css/index.css" rel="stylesheet">
+    <script type="text/javascript" src="upload/js/loaded.js">
+    </script>
+    <script type="text/javascript" src="upload/js/flexible.js">
+    </script>
+    <script type="text/javascript" src="upload/js/codehim.dropdown.js">
+    </script>
+    <script type="text/javascript" src="upload/js/swiper.min.js">
+    </script>
+    <script type="text/javascript" src="upload/js/swiper.animate1.0.2.min.js"></script>
+    <script type="text/javascript" src="original/layui/layui.js">
+    </script>
+    <script type="text/javascript" src="upload/js/wow.min.js">
+    </script>
+    <script type="text/javascript" src="upload/js/layout.js?12">
+    </script>
+    <script type="text/javascript" src="upload/js/bootstrap.min.js">
+    </script>
+    <style>
+      .breadcrumb1 div.e_breadcrumb .minor_info{color:#505363!important;}
+      .breadcrumb1 div.minor_info{color:#505363!important;}
+      .breadcrumb1 div.e_breadcrumb .minor_info:hover{color:#0DB14B!important;}
+      .breadcrumb1 div.e_breadcrumb:last-child .minor_info{color:#21252E!important;}
+      .breadcrumb1 div.e_breadcrumb:last-child .minor_info:hover{color:#21252E!important;cursor:inherit;}
+      .bdshare-button-style0-32 a{background-image:url(/repository/image/396b1541-4bfa-41c8-abbf-6e572b92f04e.png)!important;
+background-size: 40px!important;
+    background-position: 0 0!important;
+}
+    </style>
+</head>
+<body data-pageid="e7aa6fc9-ec60-4332-8eea-0849ea2df7ad" data-layout="flow" data-tmplid="0f417d2c-c8fc-4cc1-adcc-0bf4400a5e4a">
+<div class="main pagebox">
+    <div id="w_grid-1568271941509" class="w_grid-000">
+	<div class="w_grid signal">   
+	<div class="e_box e_box-000 p_gridbox">         
+	<div id="content_box-1568271941509-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+	<div id="c_portalResGroupNavNew_main-15682719758977326" class="c_portalResGroupNavNew_main-01001"> 
+     
+
+<script>
+  $(function(){
+    $.ajax({
+      type: "GET",
+      url: "/api/config/baseConfigService/getBaseConfig",
+      data:{
+        viewType:1,
+        tenantId:tenant.id
+      },
+      dataType: "json",
+      success: function(data){
+        $('.p_c_logo').find('img').attr('src',data.data.siteLogo)
+        $('.nav-phone-logo').attr('src',data.data.siteDemoImg)
+        $('.p_c_logo img,.nav-phone-logo').attr('alt',data.data.title);
+      }
+    })
+
+    $('.nav_aa').parents('.p_gridbox').css({
+      'overflow':'inherit'
+    })
+
+  function isEmpty(value){
+    return value != "" && value != null && $.trim(value) != "" && value != undefined;
+  }
+  $(".search-sub").click(function(e){
+    e.preventDefault()
+    var keyword =$("#search-top").val();
+    if(isEmpty(keyword)){
+      var url = '/searchResult.html';
+      url = url +"?keyword="+encodeURIComponent(keyword);
+      $("#search_suggest_list").stop().hide();
+      $(".searchall .close_search").stop().hide();
+      $("#search_suggest_list ul").find("li").remove();
+      $("#search-top").val('')
+      window.open(url);
+      
+    }
+  });
+  document.onkeyup = function (e) {
+    if (window.event) e = window.event;
+    var code = e.charCode || e.keyCode;
+    if (code == 13 && $("#search-top").val() && $("#search-top").is(":focus")) {
+      var keyword =$("#search-top").val();
+      if(isEmpty(keyword)){
+        var url = '/searchResult.html';
+        url = url +"?keyword="+encodeURIComponent(keyword);
+        $("#search-top").val('')
+        $("#search_suggest_list").stop().hide();
+        $(".searchall .close_search").stop().hide();
+        $("#search_suggest_list ul").find("li").remove();
+        window.open(url);
+      }
+    }
+    if(code == 13 && $("#gover_search_key").val() && $("#gover_search_key").is(":focus")){
+      var keyword2 =$("#gover_search_key").val();
+      if(isEmpty(keyword2)){
+        sessionStorage.setItem('this_cId','0')
+        var url2 = '/searchResult.html';
+        url2 = url2 +"?keyword="+encodeURIComponent(keyword2);
+        window.location.href=url2;
+      }
+    }
+  };
+    
+  //点击接口返回下拉
+ $("body").on("click","#search_suggest_list li a",function(){
+ 	var keyword=$(this).text();
+   //console.log(keyword)
+   var url = '/searchResult.html';
+   url = url +"?keyword="+encodeURIComponent(keyword);
+   $("#search-top").val('');
+   $("#search_suggest_list").stop().hide();
+   $(".searchall .close_search").stop().hide();
+   $("#search_suggest_list ul").find("li").remove();
+   window.open(url);
+   
+ })   
+  
+    /*--过滤危险字符--*/
+      $('input[type=text],textarea,input[type=password]').keyup(function () {
+        var val = $(this).val().toLocaleLowerCase();
+        var otherKey = ")|(|payload| and | exec | count | chr | mid | master | or | truncate | char | declare | join |<|>|*|/*|*/|'|;|\\u|insert|select|delete|update|create|drop|script|javascript|alert";
+        var goon = true;
+        for (var i = 0; i < otherKey.split('|').length ; i++) {
+            if (goon) {
+                if (val.indexOf(otherKey.split('|')[i]) != -1) {
+                    alert('不能包含危险字符!');
+                    $(this).val('');
+                    goon = false;
+                    return;
+                }
+            }
+        }
+    });
+    
+    //导航定位
+    if(window.location.pathname == "/"){
+      sessionStorage.setItem('onavID','');
+    }
+    if(window.location.pathname == "/searchResult.html"){
+      sessionStorage.setItem('onavID','');
+    }
+    $('.erji-nav a').click(function(){
+    	if($(this).attr('data-ooid')){
+          sessionStorage.setItem('onavID',$(this).attr('data-ooid'));
+    	}else if($(this).attr('data-oeid')){
+        sessionStorage.setItem('onavID',$(this).attr('data-oeid'));
+      }else if($(this).attr('data-osid')){
+      	sessionStorage.setItem('onavID',$(this).attr('data-osid'));
+      }
+    })
+    $('.erji-nav a').each(function(){
+    	if($(this).attr('data-ooid')){
+        if($(this).attr('data-ooid') == sessionStorage.getItem('onavID')){
+        	$(this).parent().addClass('oactive')
+        }
+       }
+      if($(this).attr('data-oeid')){
+        if($(this).attr('data-oeid') == sessionStorage.getItem('onavID')){
+        	$(this).addClass('oactive')
+            $('.layui-nav li').eq(0).addClass('oactive')
+        }
+      }
+      if($(this).attr('data-osid')){
+        if($(this).attr('data-osid') == sessionStorage.getItem('onavID')){
+        	$(this).addClass('oactive')
+            $('.layui-nav li').eq(1).addClass('oactive')
+        }
+        
+      }
+    })
+    
+})
+  
+  //输入下拉
+  function changeSelect (){
+    var val=document.getElementById("search-top").value;
+    if(val){
+    $.ajax({
+      url:"http://peodemp.ceultimate.com/front/treeCloud/search/getTitlesByKeyword",
+      data:{
+        tenantId:tenant.id,
+        keyword:val
+      },
+      success:function(e){
+			var html='';
+         for(var i=0;i<e.length;i++){
+           if(i<=5){
+         	html+='<li><a href="javascript:;">'+e[i]+'</a></li>'
+           }
+         }
+         $("#search_suggest_list ul").html(html)
+      }
+    })
+    }
+  }
+  if(isIE()){$('html').addClass('isIe');}
+  function isIE() {
+    if (!!window.ActiveXObject || "ActiveXObject" in window)
+    return true;
+    else
+    return false;
+}
+</script>
+</div></div>       </div>  </div></div><div id="w_grid-1568271948264" class="w_grid-000" data-tmpleditable="editable"><div class="w_grid signal">   
+          <div class="e_box e_box-000 p_gridbox">         
+            <div id="content_box-1568271948264-0" class="e_box e_box-000 d_gridCell_0 p_gridCell ND_empty" data-editablecontent="1568271948264">
+              
+              
+              
+             
+              
+              
+            
+
+
+
+
+<div id="w_grid-1568794386328" class="w_grid-000">
+<div class="w_grid signal">   
+<div class="e_box e_box-000 p_gridbox">         
+<div id="content_box-1568794386328-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+<div id="c_portalResGroupNewsNew_list-15688003181271510" class="c_portalResGroupNewsNew_list-01001"> 
+ <div class="e_stylebox e_FlowCommonStyleBox-001 p_stylebox" id="">
+    	
+       
+    <div class="stylebox_content">
+
+<div>
+ 
+<script type="text/javascript">
+    $comp({
+        textParams:{
+            isCutOfName:true,//标题是否自动截取超长显示内容
+            linesOfCutOfName:1,//标题超出隐藏的行数设置
+            isCutOfSummary:true,//概述是否自动截取超长显示内容
+            linesOfCutOfSummary:3,//概述超出隐藏的行数设置
+            categorySummary:true,//分类概述是否自动截取超长显示内容
+            categorySummaryMaxLen:2//分类概述超出隐藏的行数设置
+        },
+        picParams:{
+            isOpenCutMode:true,//是否开启裁剪
+            imageWidth:200,//设置图片的宽度
+            imageHeight:200,//设置图片的高度
+            definedDefaultImage:false,//是否设置默认图片
+            defaultImage:"",//设置默认图片的值
+            appId:184
+		},
+		moParams:{
+            isOpenCutMode:true,//是否开启裁剪
+            imageWidth:80,//设置图片的宽度
+            imageHeight:80,//设置图片的高度
+            definedDefaultImage:false,//是否设置默认图片
+            defaultImage:"",//设置默认图片的值
+            appId:184
+        },
+        params: {
+            "url": "/comp/portalResGroupNewsNew/list.do?compId=portalResGroupNewsNew_list-15688003181271510&refColumnId=184&refChildColumnId=185",
+			"appId": "184",
+			turnPageType:"turnPage"
+        },
+        id: "portalResGroupNewsNew_list-15688003181271510", //实例id 服务器传
+        lib: ["js/portalGroupNewsNew/portalResGroupNewsNew_list-01"], //组件js 
+        noDataFlag:""
+    });
+</script>
+<input type="hidden" class="requsetParam" value="&page={currentPage=1, pageSize=5, total=5, totalPages=1}" />
+<input type="hidden" class="requsetID" data-ename="可视化配置" value="&columnId=184"/>
+</div>
+	</div>
+    <div class="stylebox_bottom_line"></div>
+    <div class="stylebox_bottom">
+            </div>
+</div>
+</div></div>       </div>  </div></div>
+
+
+<div id="w_grid-1568794392784" class="w_grid-000">
+	<div class="w_grid signal">   
+		<div class="e_box e_box-000 p_gridbox">         
+			<div id="content_box-1568794392784-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+				<div id="c_portalResGroupPublic_codeContainer-15688971693439257" class="c_portalResGroupPublic_codeContainer-01001"> 
+					<div class="layui-container">
+						  <div class="index-jxcp cp">
+								<div class="container-tit  tit-hasinfo">
+									  <h2>连接工业资产，打通连接层、平台层、应用层、提供端到端的行业赋能</h2>
+									  <p>精选产品</p>
+								</div>
+								<div class="jxcplist clearfix">
+									  <div class="item item-green">
+											<div class="itempd">
+												  <div class="greent-title">
+													   <p>多维度的产品种类，为您 提供优质的产品服务</p>
+												  </div>
+												  <div class="green-cont">
+													   <p>连接工业资产，打通连接层、平台层、应用层，提供端到端的行业赋能。</p>
+												  </div>
+												  <a href="/allProduct.html" class="green-more">更多产品</a>
+											</div>
+									  </div>
+
+									  <div class="item">
+										  <div class="item-topic">
+											 <img src="repository/image/qjmn39y5SEaF_Vu1mSYU0w.png" class="img-response" alt="">
+										  </div>
+										  <div class="item-tinfo">
+											  <h2>后市场服务</h2>
+											  <p>通过树根互联的后市场服务，帮助客户构建具有强竞争力的后市场服务体系。</p>
+											  <a href="/column/12/" class="item-more">查看详情</a>
+										  </div>
+									  </div>
+
+									  <div class="item">
+										  <div class="item-topic">
+											  <img src="repository/image/5nCtnxm-QKSwO_SKqJHHHQ.jpg" class="img-response" alt="">
+										  </div>
+										  <div class="item-tinfo">
+											  <h2>云视界</h2>
+											  <p>云视界帮助用户解决设备和数据更丰富的可视化呈现以及BI问题。</p>
+											  <a href="/column/19/" class="item-more">查看详情</a>
+										  </div>
+									  </div>
+
+									  <div class="item">
+										  <div class="item-topic">
+											  <img src="repository/image/9qj7mpWtTT-qct4L3IhOtQ.png" class="img-response" alt="">
+										  </div>
+										  <div class="item-tinfo">
+											  <h2>设备全生命周期管理（DLM）</h2>
+											  <p>面向设备制造商及设备使用者提供的在线设备管理服务产品。</p>
+											  <a href="/column/150/" class="item-more">查看详情</a>
+										  </div>
+									  </div>
+								</div>	
+						  </div>
+					</div>
+				</div>
+			</div>       
+		</div>  
+	</div>
+</div>
+
+
+
+<div id="w_grid-1568898057815" class="w_grid-000">
+	<div class="w_grid signal">   
+		<div class="e_box e_box-000 p_gridbox">         
+			<div id="content_box-1568898057815-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+				<div id="c_portalResGroupPublic_codeContainer-15688980967676351" class="c_portalResGroupPublic_codeContainer-01001"> 
+					<div class="layui-container">
+					  <div class="index-jxcp pt">
+						 <div class="container-tit  tit-hasinfo">
+							<h2>携手行业龙头企业，打造18个行业级平台、赋能70+个工业细分领域,跨行业跨领域赋能</h2>
+							<p>精选行业</p>
+						 </div>
+						 <div class="jxcplist clearfix">
+							<div class="item item-green">
+								<div class="itempd">
+									<div class="greent-title">
+										<p>多维度的产品种类，为您 提供优质的产品服务</p>
+									</div>
+									<div class="green-cont">
+										<p>连接工业资产，打通连接层、平台层、应用层，提供端到端的行业赋能。</p>
+									</div>
+									<a href="/platform.html" class="green-more">更多行业</a>
+								</div>
+							</div>
+
+							<div class="item wow fadeInUp">
+								<div class="item-topic">
+									<img src="repository/image/00c7a53b-b986-432b-97c5-4ca86abfcd96.png" class="img-response" alt="">
+								</div>
+								<div class="item-tinfo">
+									<h2>注塑行业</h2>
+									<p>树根互联注塑车间生产大数据云平台，实现设备数字化带来售后降本增效！</p>
+									<a href="/cmscontent/221.html" class="item-more">查看详情</a>
+								</div>
+							</div>
+
+							<div class="item wow fadeInUp">
+								<div class="item-topic">
+									<img src="repository/image/ddf8335d-86f8-428a-b06e-00dbb7d84f46.png" class="img-response" alt="">
+								</div>
+								<div class="item-tinfo">
+									<h2>新能源装备行业</h2>
+									<p>树根互联新能源锂电池烘干设备大数据云平台，实时工艺过程展示与大数据分析，实现从单一的设备提供商向设备软件硬件整套解决方案服务商的数字化转型。</p>
+									<a href="/cmscontent/264.html" class="item-more">查看详情</a>
+								</div>
+							</div>
+
+							<div class="item wow fadeInUp">
+								<div class="item-topic">
+									<img src="repository/image/6432f164-5df1-41c2-92f6-fa00e4112133.png" class="img-response" alt="">
+								</div>
+								<div class="item-tinfo">
+									<h2>流体机电行业（空压机/压缩机）</h2>
+									<p>树根互联为流体机电（空压机/压缩机）设备提供一站式设备健康管理服务平台</p>
+									<a href="/cmscontent/268.html" class="item-more">查看详情</a>
+								</div>
+							</div>
+
+						 </div>	
+					  </div>
+					</div>
+				</div>
+			</div>       
+		</div>  
+	</div>
+</div>
+
+
+
+
+
+<div id="w_grid-1568794409579" class="w_grid-000">
+<div class="w_grid signal">   
+	<div class="e_box e_box-000 p_gridbox">         
+		<div id="content_box-1568794409579-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+			<div id="c_portalResGroupNewsNew_list-15688023963913083" class="c_portalResGroupNewsNew_list-02001" loaded="true" style="overflow: visible;"> 
+				<div class="e_stylebox e_FlowCommonStyleBox-001 p_stylebox" id="">
+					<div class="stylebox_top">
+						<div class="stylebox_title">
+							<h2 class="title_main">资讯列表</h2>
+						</div>
+					</div>
+					<div class="stylebox_top_line"></div>
+					<div class="stylebox_content">
+						<div>
+							<div class="layui-container cMap">
+								<div class="container-tit">
+									<h2>世界级的工业互联网平台，无论您在何处，我们都能提供服务</h2>
+								</div>
+								<div class="index-map w-1200">
+									<div class="clearfix"></div>
+									<div class="map-main">
+										<div class="mobile-map-bg">
+										  <img src="repository/image/wAPEdr6RQ5qVd44NeWWN6w.png" alt="">
+										</div>
+										<div class="m_map">
+											<div class="mp pc_no mp1 usa">
+												<div class="map-info">
+													<div class="info">
+														<p></p>
+													</div>	
+												</div>
+												<div class="mito">
+													<img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+													<a class="map-title" href="javascript:;">美国</a>
+												</div>
+											</div>
+											<div class="mp mp2 german">
+												<div class="map-info">
+													<div class="info">
+														<p>11</p>
+													</div>	
+												</div>
+												<div class="mito">
+													<img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+													<a class="map-title" href="javascript:;">德国</a>
+												</div>
+											</div>
+											<div class="mp mp3 bj">
+											<div class="map-info">
+												<div class="info">
+													<p>树根总部</p>
+												</div>	
+											</div>
+											<div class="mito">
+												<img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+												<a class="map-title" href="javascript:;">北京</a>
+											</div>
+										</div>
+										<div class="mp mp4 guangzhou">
+											<div class="map-info">
+												<div class="info">
+													<p>aq</p>
+												</div>	
+											</div>
+											<div class="mito">
+												<img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+												<a class="map-title" href="javascript:;">广州</a>
+											</div>
+										</div>
+										<div class="mp mp5 india">
+											<div class="map-info">
+												<div class="info">
+													<p>阿萨德</p>
+												</div>	
+											</div>
+											<div class="mito">
+												<img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+												<a class="map-title" href="javascript:;">印度</a>
+											</div>
+										</div>
+										<div class="mp mp6 kenya">
+											<div class="map-info">
+												<div class="info">
+												   <p>AAS</p>
+												</div>	
+											</div>
+											<div class="mito">
+												<img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+												<a class="map-title" href="javascript:;">肯尼亚</a>
+											</div>
+										</div>
+										<div class="mp mp7 SouthAfrica">
+											<div class="map-info">
+											  <div class="info">
+												<p>安安</p>
+											  </div>	
+											</div>
+											<div class="mito">
+											  <img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+											  <a class="map-title" href="javascript:;">南非</a>
+											</div>
+										</div>
+										<div class="mp mp8 suzhou">
+											<div class="map-info">
+											  <div class="info">
+												<p>01</p>
+											  </div>	
+											</div>
+											<div class="mito">
+											  <img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+											  <a class="map-title" href="javascript:;">苏州</a>
+											</div>
+										</div>
+										<div class="mp mp9 changsha">
+											<div class="map-info">
+												<div class="info">
+													<p>01</p>
+												</div>	
+											</div>
+											<div class="mito">
+												<img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+												<a class="map-title" href="javascript:;">长沙</a>
+											</div>
+										</div>
+										<div class="mp mp10 shanghai">
+											<div class="map-info">
+												<div class="info">
+												<p>01</p>
+											</div>	
+										</div>
+										<div class="mito">
+											<img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+											<a class="map-title" href="javascript:;">上海</a>
+										</div>
+								</div>
+								<div class="mp mp11 xian">
+									<div class="map-info">
+										<div class="info">
+											<p>西安</p>
+										</div>	
+									</div>
+									<div class="mito">
+										<img class="map-statu animated pulsed" src="/repository/image/VHLhgj7yTL-s0JH4ijB-sw.png" alt="">
+										<a class="map-title" href="javascript:;">西安</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+						<div class="map-detail">
+						  <div class="content">
+							<p>
+							树根互联紧跟全国各地推进制造业转型升级、智能制造园区建设的步伐，展开全国布局，目前已经落地广州，并落户北京、上海、长沙、苏州、西安，不仅发力于中国先进制造业的集中承载地、更辐射京津冀、长三角地区和华中地区，带动全国范围内的工业互联网应用，助力中国制造业实现换道超车。
+							</p>
+							<p>
+							截至目前，树根互联已服务德国、肯尼亚、印度、南非、印尼、墨西哥等海外国家的当地企业，持续开拓全球服务能力，支持45个国家和地区的设备接入。
+							</p>
+						  </div>
+						</div>
+					</div>  
+				</div>	
+			</div>  
+			<script type="text/javascript">
+				$comp({
+					textParams:{
+						isCutOfName:true,//标题是否自动截取超长显示内容
+						linesOfCutOfName:1,//标题超出隐藏的行数设置
+						isCutOfSummary:true,//概述是否自动截取超长显示内容
+						linesOfCutOfSummary:3,//概述超出隐藏的行数设置
+						categorySummary:true,//分类概述是否自动截取超长显示内容
+						categorySummaryMaxLen:2//分类概述超出隐藏的行数设置
+					},
+					picParams:{
+						isOpenCutMode:true,//是否开启裁剪
+						imageWidth:200,//设置图片的宽度
+						imageHeight:200,//设置图片的高度
+						definedDefaultImage:false,//是否设置默认图片
+						defaultImage:"",//设置默认图片的值
+						appId:197
+					},
+					moParams:{
+						isOpenCutMode:true,//是否开启裁剪
+						imageWidth:80,//设置图片的宽度
+						imageHeight:80,//设置图片的高度
+						definedDefaultImage:false,//是否设置默认图片
+						defaultImage:"",//设置默认图片的值
+						appId:197
+					},
+					params: {
+						"url": "/comp/portalResGroupNewsNew/list.do?compId=portalResGroupNewsNew_list-15688023963913083&refColumnId=197&refChildColumnId=",
+						"appId": "197",
+						turnPageType:"turnPage"
+					},
+					id: "portalResGroupNewsNew_list-15688023963913083", //实例id 服务器传
+					lib: ["js/portalGroupNewsNew/portalResGroupNewsNew_list-01"], //组件js 
+					noDataFlag:""
+				});
+				$.ajax({
+					url:"/api/cmscolumn/column/getColumnById?viewType=1",
+				   data:{
+					columnId:197,
+					tenantId:tenant.id
+				   },
+				   success:function(e){
+						$(".map-detail .content").html(e.data.bigField.pcContent);
+					 $(".cMap .container-tit h2").text(e.data.name)
+				   }
+				})
+			</script>
+			<input type="hidden" class="requsetParam" value="&amp;page={currentPage=1, pageSize=20, total=11, totalPages=1}">
+			<input type="hidden" class="requsetID" data-ename="可视化配置" value="&amp;columnId=197">
+		</div>
+		<div class="stylebox_bottom_line"></div>
+		<div class="stylebox_bottom"></div>
+	</div>
+</div>
+
+
+
+
+<div id="w_grid-1568803033627" class="w_grid-000">
+	<div class="w_grid signal">   
+		<div class="e_box e_box-000 p_gridbox">         
+			<div id="content_box-1568803033627-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+			</div>       
+		</div>  
+	</div>
+</div>
+
+
+<div id="w_grid-1568803048198" class="w_grid-000">
+	<div class="w_grid signal">   
+		<div class="e_box e_box-000 p_gridbox">         
+			<div id="content_box-1568803048198-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+				<div id="c_portalResGroupNewsNew_list-15688039989717266" class="c_portalResGroupNewsNew_list-02001"> 
+					<div class="e_stylebox e_FlowCommonStyleBox-001 p_stylebox" id="">
+						<div class="stylebox_top">
+							<div class="stylebox_title">
+								<h2 class="title_main">资讯列表</h2>
+							</div>
+						</div>
+						<div class="stylebox_top_line">
+						</div>
+						<div class="stylebox_content">
+							<div>
+								<div class="layui-container index-hz">
+									<div class="container-tit">
+									  <h2></h2>
+									</div>
+									<div class="client">
+										<div class="layui-row">
+										   <ul class="client-list">
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/IVTJYC15S_miYffXdFwHBA.png" class="img1" alt="">
+												  <img src="repository/image/V8sO46IrR0u9Ab7zKya2dA.png" class="img2" alt="">
+												</a>
+											  </li>
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/OEAY-g19T4aXVfjcoRpVUw.png" class="img1" alt="">
+												  <img src="repository/image/OylI7ylqRCeSohg2uB6n6w.png" class="img2" alt="">
+												</a>
+											  </li>
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/OP_bG_UqQVOX656W-W2usQ.png" class="img1" alt="">
+												  <img src="repository/image/2yc9iRliS06gcVWxF8VE6Q.png" class="img2" alt="">
+												</a>
+											  </li>
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/FKMs6dSxT5uuM37-7YezMw.png" class="img1" alt="">
+												  <img src="repository/image/PJDKykTbQkyXB9III0_ieA.png" class="img2" alt="">
+												</a>
+											  </li>
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/o8cYLHcfSSCP1dopxIC-8g.png" class="img1" alt="">
+												  <img src="repository/image/2y_b-H4TT8GntPvP2NyDSw.png" class="img2" alt="">
+												</a>
+											  </li>
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/b1ae4b03-1d4d-4258-88fd-f2594ace25ed.png" class="img1" alt="">
+												  <img src="repository/image/92c4e81f-f013-4f1f-9c2a-82a9e55ffb3c.png" class="img2" alt="">
+												</a>
+											  </li>
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/zS_YRPEER4eVSoqJYmxE_A.png" class="img1" alt="">
+												  <img src="repository/image/u7xv9kwXS5-HRoOC4_56NA.png" class="img2" alt="">
+												</a>
+											  </li>
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/3BcLkB7BTUmHuD1fWIY3Ug.png" class="img1" alt="">
+												  <img src="repository/image/gpWPsehgQmarb9Gtn_j07g.png" class="img2" alt="">
+												</a>
+											  </li>
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/fLoo-f5cQwydvhq6U7XjNw.png" class="img1" alt="">
+												  <img src="repository/image/cjyMvvCIQvePbgd3n_BrNw.png" class="img2" alt="">
+												</a>
+											  </li>
+											  <li class="fl">
+												<em style="display:none">合作客户</em>
+												<a href="javascript:;">
+												  <img src="repository/image/4VrLJMisTU2xBRJmqwDBng.png" class="img1" alt="">
+												  <img src="repository/image/8lt6xTBLTQi6Bl1P672tjQ.png" class="img2" alt="">
+												</a>
+											  </li>
+										   </ul>
+										</div>
+									</div>	
+								</div>
+								<script type="text/javascript">
+								   $(".index-hz h2").text($(".index-hz li:eq(0) em").text())
+								</script>
+							</div>
+						</div>
+						<div class="stylebox_bottom_line"></div>
+						<div class="stylebox_bottom"></div>
+					</div>
+				</div>
+			</div>       
+		</div>  
+	</div>
+</div>
+</div>       
+</div>  
+</div>
+</div>
+</div>       
+          </div>  
+        </div>
+		</div>
+		
+		
+
+<!--w_grid-1568271949559_start-->
+<div id="w_grid-1568271949559" class="w_grid-000">
+<div class="w_grid signal">   
+	<div class="e_box e_box-000 p_gridbox">         
+		<div id="content_box-1568271949559-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+			<div id="c_portalResGroupNavNew_main-15687231254459749" class="c_portalResGroupNavNew_main-01001" loaded="true" style="overflow: visible;"> 
+				<div class="layui-fluid footer">
+					<div class="layui-container">
+						  <div class="footer-info clearfix">
+								<div class="layui-col-md6">
+									  <div class="info-hore info-hore1">
+										  <h2>关于树根互联</h2>
+										  <p class="horep">树根互联是被全球广泛认可的国际化工业互联网赋能平台公司，不仅是首批通过工业互联网平台可信服务评估认证的企业之一，同时也是首家入选Gartner IIoT 魔力象限的中国工业互联网平台企业。</p>
+										  <div class="info-tel clearfix">
+											  <div class="layui-col-md8 info-tell">
+												  <p>资讯热线</p>
+												  <h1>
+													  <a href="tel:4008681122" style="color:#fff;">400-868-1122</a>
+												  </h1>
+												  <p>邮箱地址</p>
+												  <p class="email">
+													  <a href="mailto:partner@rootcloud.com" style="color:#fff;">partner@rootcloud.com</a>
+												  </p>
+											  </div>
+											  <div class="layui-col-md4 erwm">
+												  <img src="/repository/image/sNmyd9pYTGuUNcheSEmhJA.jpeg" class="img-response" alt="树根互联">
+											  </div>
+										  </div>
+									  </div>
+								</div>
+						  </div>
+						  <div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+			<div id="w_grid-1568615814151" class="w_grid-000">
+				<div class="w_grid signal">   
+					<div class="e_box e_box-000 p_gridbox">         
+						<div id="content_box-1568615814151-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+							<div id="c_portalResGroupWebsite_info-15686156719380864" class="c_portalResGroupWebsite_info-01001" loaded="true" style="overflow: visible;"> 
+								<div class="e_box p_contentBox">
+								  <div class="bqxx">
+									  <p>Copyright © 2018 ROOTCLOUD. All rights reserved. 树根互联技术有限公司 版权所有 <br>  粤ICP备19026860号-1</p>
+								  </div>
+								</div>
+							</div>
+						</div>       
+					</div>  
+				</div>
+			</div>
+		</div>       
+	</div>  
+</div>
+</div>
+<!--w_grid-1568271949559_end-->
+		
+	
+
+
+
+</div>
+  </body>
+</html>
