@@ -682,7 +682,7 @@ background-size: 40px!important;
 				   },
 				   success:function(e){
 						$(".map-detail .content").html(e.data.bigField.pcContent);
-					 $(".cMap .container-tit h2").text(e.data.name)
+					 //$(".cMap .container-tit h2").text(e.data.name)
 				   }
 				})
 			</script>
@@ -829,57 +829,57 @@ background-size: 40px!important;
 
 <!--w_grid-1568271949559_start-->
 <div id="w_grid-1568271949559" class="w_grid-000">
-<div class="w_grid signal">   
-	<div class="e_box e_box-000 p_gridbox">         
-		<div id="content_box-1568271949559-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
-			<div id="c_portalResGroupNavNew_main-15687231254459749" class="c_portalResGroupNavNew_main-01001" loaded="true" style="overflow: visible;"> 
-				<div class="layui-fluid footer">
-					<div class="layui-container">
-						  <div class="footer-info clearfix">
-								<div class="layui-col-md6">
-									  <div class="info-hore info-hore1">
-										  <h2>关于树根互联</h2>
-										  <p class="horep">树根互联是被全球广泛认可的国际化工业互联网赋能平台公司，不仅是首批通过工业互联网平台可信服务评估认证的企业之一，同时也是首家入选Gartner IIoT 魔力象限的中国工业互联网平台企业。</p>
-										  <div class="info-tel clearfix">
-											  <div class="layui-col-md8 info-tell">
-												  <p>资讯热线</p>
-												  <h1>
-													  <a href="tel:4008681122" style="color:#fff;">400-868-1122</a>
-												  </h1>
-												  <p>邮箱地址</p>
-												  <p class="email">
-													  <a href="mailto:partner@rootcloud.com" style="color:#fff;">partner@rootcloud.com</a>
-												  </p>
-											  </div>
-											  <div class="layui-col-md4 erwm">
-												  <img src="/repository/image/sNmyd9pYTGuUNcheSEmhJA.jpeg" class="img-response" alt="树根互联">
+	<div class="w_grid signal">   
+		<div class="e_box e_box-000 p_gridbox">         
+			<div id="content_box-1568271949559-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+				<div id="c_portalResGroupNavNew_main-15687231254459749" class="c_portalResGroupNavNew_main-01001" loaded="true" style="overflow: visible;"> 
+					<div class="layui-fluid footer">
+						<div class="layui-container">
+							  <div class="footer-info clearfix">
+									<div class="layui-col-md6">
+										  <div class="info-hore info-hore1">
+											  <h2>关于树根互联</h2>
+											  <p class="horep">树根互联是被全球广泛认可的国际化工业互联网赋能平台公司，不仅是首批通过工业互联网平台可信服务评估认证的企业之一，同时也是首家入选Gartner IIoT 魔力象限的中国工业互联网平台企业。</p>
+											  <div class="info-tel clearfix">
+												  <div class="layui-col-md8 info-tell">
+													  <p>资讯热线</p>
+													  <h1>
+														  <a href="tel:4008681122" style="color:#fff;">400-868-1122</a>
+													  </h1>
+													  <p>邮箱地址</p>
+													  <p class="email">
+														  <a href="mailto:partner@rootcloud.com" style="color:#fff;">partner@rootcloud.com</a>
+													  </p>
+												  </div>
+												  <div class="layui-col-md4 erwm">
+													  <img src="/repository/image/sNmyd9pYTGuUNcheSEmhJA.jpeg" class="img-response" alt="树根互联">
+												  </div>
 											  </div>
 										  </div>
-									  </div>
-								</div>
-						  </div>
-						  <div class="clearfix"></div>
+									</div>
+							  </div>
+							  <div class="clearfix"></div>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div id="w_grid-1568615814151" class="w_grid-000">
-				<div class="w_grid signal">   
-					<div class="e_box e_box-000 p_gridbox">         
-						<div id="content_box-1568615814151-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
-							<div id="c_portalResGroupWebsite_info-15686156719380864" class="c_portalResGroupWebsite_info-01001" loaded="true" style="overflow: visible;"> 
-								<div class="e_box p_contentBox">
-								  <div class="bqxx">
-									  <p>Copyright © 2018 ROOTCLOUD. All rights reserved. 树根互联技术有限公司 版权所有 <br>  粤ICP备19026860号-1</p>
-								  </div>
+				<div id="w_grid-1568615814151" class="w_grid-000">
+					<div class="w_grid signal">   
+						<div class="e_box e_box-000 p_gridbox">         
+							<div id="content_box-1568615814151-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+								<div id="c_portalResGroupWebsite_info-15686156719380864" class="c_portalResGroupWebsite_info-01001" loaded="true" style="overflow: visible;"> 
+									<div class="e_box p_contentBox">
+									  <div class="bqxx">
+										  <p>Copyright © 2018 ROOTCLOUD. All rights reserved. 树根互联技术有限公司 版权所有 <br>  粤ICP备19026860号-1</p>
+									  </div>
+									</div>
 								</div>
-							</div>
-						</div>       
-					</div>  
+							</div>       
+						</div>  
+					</div>
 				</div>
-			</div>
-		</div>       
-	</div>  
-</div>
+			</div>       
+		</div>  
+	</div>
 </div>
 <!--w_grid-1568271949559_end-->
 		
