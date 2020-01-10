@@ -1,5 +1,6 @@
 <!doctype html>
 <html style="height: 100%;"><head>
+<title data-n-head="true">产品介绍</title>
   <meta charset="utf-8" data-n-head="true">
   <meta name="COSMOPlat门户" content="COSMOPlat门户" data-n-head="true" data-hid="COSMOPlat门户">
   <link href="/favicon.ico" rel="icon" type="image/x-icon" data-n-head="true">
@@ -21,6 +22,36 @@
   <link href="_nuxt/2b084d168d2ff1a9f4bf.css" rel="stylesheet">
   <link href="_nuxt/07758364fba6332e9761.css" rel="stylesheet">
   <link href="_nuxt/e9f0b99a30ba434befaf.css" rel="stylesheet">
+  
+<link href="css/ftmpl_impt_0f417d2c-c8fc-4cc1-adcc-0bf4400a5e4a.css?v=1574769761000" rel="stylesheet" type="text/css" />
+<link type="text/css" href="original/layui/css/layui.css" rel="stylesheet" />
+<link type="text/css" href="upload/css/base.css?12" rel="stylesheet" />
+<style>
+.info-hore .horep2 {
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 43px;
+}
+.info-hore .info-tel2 {
+    height: 120px;
+}
+.info-hore .info-tel2 p {
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 11px;
+}
+.info-hore .info-tel2 h1 {
+    font-size: 36px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+</style>
 </head>
 <body style="height: 100%;">
 <!--__nuxt_start-->
@@ -51,23 +82,25 @@
 							</div> 
 							<div class="but-list" data-v-b0677670="">
 								<div class="but-style" data-v-b0677670="">
-									<div class="out-link" data-v-b0677670="">首页</div>
+									<a href="index.html">
+										<div class="out-link" data-v-b0677670="">首页</div>
+									</a>
 								</div> 
 								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
-									<div class="out-link" data-v-b0677670="">产品介绍</div>
+									<a href="proIntro.html">
+										<div class="out-link" data-v-b0677670="">产品介绍</div>
+									</a>
 								</div>				
 								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
-									<div class="out-link" data-v-b0677670="">关于我们</div>
+									<a href="contactUs.html">
+										<div class="out-link" data-v-b0677670="">关于我们</div>
+									</a>
 								</div> 
 							</div>
 					  </div>
 				  </div> 			
 			  </div> 		  
 		  </div> 
-  
-  
-			  
-		
 		  <!--zpContainer_start-->
 		  <div class="zpContainer">
 			  <div id="cosmo_root">
@@ -114,7 +147,55 @@
 									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">解决方案架构</div>
 								  </div> 
 								  <div class="img-div" data-v-38a36330="">
-									<img class="cosmo_title_img cosmo_title_img_m" src="file/20190728/2_f7eae0ef-fcb8-4fd4-b49d-a824de8eb8e7.png" lazy="loaded" data-src="file/20190728/2_f7eae0ef-fcb8-4fd4-b49d-a824de8eb8e7.png" data-v-38a36330="" srcset="file/20190728/2_f7eae0ef-fcb8-4fd4-b49d-a824de8eb8e7.png 1023w, file/20190728/2_f7eae0ef-fcb8-4fd4-b49d-a824de8eb8e7.png">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001100001.png" lazy="loaded" data-src="repository/image/202001100001.png" data-v-38a36330="" srcset="repository/image/202001100001.png 1023w, repository/image/202001100001.png">
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+					  <div class="gateway_item">
+						  <div class="cosmo_title cuba_components" data-v-38a36330="">
+							  <div class="container" data-v-38a36330="">
+								  <div class="wordWrap wordWrap_m" style="height: 72px; text-align: left; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px; font-size: 24px;" data-v-38a36330="">
+									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">解决方案架构</div>
+								  </div> 
+								  <div class="img-div" data-v-38a36330="">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001100002.png" lazy="loaded" data-src="repository/image/202001100002.png" data-v-38a36330="" srcset="repository/image/202001100002.png 1023w, repository/image/202001100002.png">
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+					  <div class="gateway_item">
+						  <div class="cosmo_title cuba_components" data-v-38a36330="">
+							  <div class="container" data-v-38a36330="">
+								  <div class="wordWrap wordWrap_m" style="height: 72px; text-align: left; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px; font-size: 24px;" data-v-38a36330="">
+									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">解决方案架构</div>
+								  </div> 
+								  <div class="img-div" data-v-38a36330="">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001100003.png" lazy="loaded" data-src="repository/image/202001100003.png" data-v-38a36330="" srcset="repository/image/202001100003.png 1023w, repository/image/202001100003.png">
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+					  <div class="gateway_item">
+						  <div class="cosmo_title cuba_components" data-v-38a36330="">
+							  <div class="container" data-v-38a36330="">
+								  <div class="wordWrap wordWrap_m" style="height: 72px; text-align: left; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px; font-size: 24px;" data-v-38a36330="">
+									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">解决方案架构</div>
+								  </div> 
+								  <div class="img-div" data-v-38a36330="">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001100004.png" lazy="loaded" data-src="repository/image/202001100004.png" data-v-38a36330="" srcset="repository/image/202001100004.png 1023w, repository/image/202001100004.png">
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+					  <div class="gateway_item">
+						  <div class="cosmo_title cuba_components" data-v-38a36330="">
+							  <div class="container" data-v-38a36330="">
+								  <div class="wordWrap wordWrap_m" style="height: 72px; text-align: left; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px; font-size: 24px;" data-v-38a36330="">
+									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">解决方案架构</div>
+								  </div> 
+								  <div class="img-div" data-v-38a36330="">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001100005.png" lazy="loaded" data-src="repository/image/202001100005.png" data-v-38a36330="" srcset="repository/image/202001100005.png 1023w, repository/image/202001100005.png">
 								  </div>
 							  </div>
 						  </div>
@@ -135,11 +216,62 @@
 			  </div>
 		  </div> 
 		  <!--zpContainer_end-->
-		  
-		  
-		  
 		  <div class="footer" data-v-fb83ed8e="">
 			  
+<!--w_grid-1568271949559_start-->
+<div id="w_grid-1568271949559" class="w_grid-000">
+	<div class="w_grid signal">   
+		<div class="e_box e_box-000 p_gridbox">         
+			<div id="content_box-1568271949559-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+				<div id="c_portalResGroupNavNew_main-15687231254459749" class="c_portalResGroupNavNew_main-01001" loaded="true" style="overflow: visible;"> 
+					<div class="layui-fluid footer">
+						<div class="layui-container">
+							  <div class="footer-info clearfix">
+									<div class="layui-col-md6">
+										  <div class="info-hore info-hore1">
+											  <h2>关于辰麒</h2>
+											  <p class="horep2">辰麒是被全球广泛认可的国际化工业互联网赋能平台公司，不仅是首批通过工业互联网平台可信服务评估认证的企业之一，同时也是首家入选Gartner IIoT 魔力象限的中国工业互联网平台企业。</p>
+											  <div class="info-tel2 clearfix">
+												  <div class="layui-col-md8 info-tell">
+													  <p>资讯热线</p>
+													  <h1>
+														  <a href="tel:4008681122" style="color:#fff;">400-868-1122</a>
+													  </h1>
+													  <p>邮箱地址</p>
+													  <p class="email">
+														  <a href="mailto:partner@rootcloud.com" style="color:#fff;">partner@rootcloud.com</a>
+													  </p>
+												  </div>
+											  </div>
+										  </div>
+									</div>
+							  </div>
+							  <div class="clearfix"></div>
+						</div>
+					</div>
+				</div>
+				<div id="w_grid-1568615814151" class="w_grid-000">
+					<div class="w_grid signal">   
+						<div class="e_box e_box-000 p_gridbox">         
+							<div id="content_box-1568615814151-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+								<div id="c_portalResGroupWebsite_info-15686156719380864" class="c_portalResGroupWebsite_info-01001" loaded="true" style="overflow: visible;"> 
+									<div class="e_box p_contentBox">
+									  <div class="bqxx">
+										  <p>Copyright © 2018 ROOTCLOUD. All rights reserved. 树根互联技术有限公司 版权所有 <br>  粤ICP备19026860号-1</p>
+									  </div>
+									</div>
+								</div>
+							</div>       
+						</div>  
+					</div>
+				</div>
+			</div>       
+		</div>  
+	</div>
+</div>
+<!--w_grid-1568271949559_end-->
+
+
 		  </div>
 	 </div>
   </div>

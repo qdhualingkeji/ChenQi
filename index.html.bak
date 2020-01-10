@@ -1,6 +1,6 @@
 <!doctype html>
 <html data-n-head="" style="height:100%"><head>
-  <title data-n-head="true">卡奥斯COSMOPlat-创引领全球的世界级工业互联网平台</title>
+  <title data-n-head="true">首页</title>
   <meta data-n-head="true" charset="utf-8">
   <meta data-n-head="true" name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
   <meta data-n-head="true" data-hid="COSMOPlat门户" name="COSMOPlat门户" content="COSMOPlat门户">
@@ -109,13 +109,19 @@
 							</div> 
 							<div class="but-list" data-v-b0677670="">
 								<div class="but-style" data-v-b0677670="">
-									<div class="out-link" data-v-b0677670="">首页</div>
+									<a href="index.html">
+										<div class="out-link" data-v-b0677670="">首页</div>
+									</a>
 								</div> 
 								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
-									<div class="out-link" data-v-b0677670="">产品介绍</div>
+									<a href="proIntro.html">
+										<div class="out-link" data-v-b0677670="">产品介绍</div>
+									</a>
 								</div>				
 								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
-									<div class="out-link" data-v-b0677670="">关于我们</div>
+									<a href="contactUs.html">
+										<div class="out-link" data-v-b0677670="">关于我们</div>
+									</a>
 								</div> 
 							</div>
 					  </div>
@@ -538,8 +544,8 @@
 							  <div class="footer-info clearfix">
 									<div class="layui-col-md6">
 										  <div class="info-hore info-hore1">
-											  <h2>关于树根互联</h2>
-											  <p class="horep2">树根互联是被全球广泛认可的国际化工业互联网赋能平台公司，不仅是首批通过工业互联网平台可信服务评估认证的企业之一，同时也是首家入选Gartner IIoT 魔力象限的中国工业互联网平台企业。</p>
+											  <h2>关于辰麒</h2>
+											  <p class="horep2">辰麒是被全球广泛认可的国际化工业互联网赋能平台公司，不仅是首批通过工业互联网平台可信服务评估认证的企业之一，同时也是首家入选Gartner IIoT 魔力象限的中国工业互联网平台企业。</p>
 											  <div class="info-tel2 clearfix">
 												  <div class="layui-col-md8 info-tell">
 													  <p>资讯热线</p>
