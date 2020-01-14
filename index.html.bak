@@ -105,6 +105,16 @@
     line-height: 22px;
     margin-bottom: 0.24rem;
 }
+.container-tit h3 {
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+    color: #21252E;
+    letter-spacing: 0;
+    line-height: 32px;
+    position: relative;
+	margin-bottom: 46px;
+}
 .space_div{
 	width:100%;
 	height:30px;
@@ -380,7 +390,7 @@
 											 <img class="item-gray img-response" src="repository/image/fzMhmUd9R2uZXkLnNXAlkA.png" alt="">
 											 <div class="itemin">
 											   <div class="item-pic">
-												  <img src="/repository/image/e49e658f-7008-4bc7-b8ae-463d9153ce23.svg" alt="">
+												  <img src="repository/image/e49e658f-7008-4bc7-b8ae-463d9153ce23.svg" alt="">
 											   </div>
 											   <h2>多应用</h2>
 											   <p>赋能行业龙头  打造凸现工业价值的应用 客户的SaaS投入产出效益10倍+</p>
@@ -456,6 +466,74 @@
 										  <div class="item-tinfo">
 											  <h2>设备全生命周期管理（DLM）</h2>
 											  <p>面向设备制造商及设备使用者提供的在线设备管理服务产品。</p>
+										  </div>
+									  </div>
+								</div>	
+						  </div>
+					</div>
+				</div>
+			</div>       
+		</div>  
+	</div>
+</div>
+
+<div class="space_div"></div>
+
+<div id="w_grid-1568794392785" class="w_grid-000">
+	<div class="w_grid signal">   
+		<div class="e_box e_box-000 p_gridbox">         
+			<div id="content_box-1568794392784-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+				<div id="c_portalResGroupPublic_codeContainer-15688971693439257" class="c_portalResGroupPublic_codeContainer-01001"> 
+					<div class="layui-container">
+						  <div class="index-jxcp cp">
+								<div class="container-tit  tit-hasinfo">
+									  <h2>高精度人员定位系统</h2>
+									  <h3>物联网新技术革命：全面解决网络部署与精确定位难题</h3>
+									  <p>精选产品</p>
+								</div>
+								<div class="jxcplist clearfix">
+									  <div class="item item-green">
+											<div class="itempd">
+												  <div class="greent-title">
+													   <p>多维度的产品种类，为您 提供优质的产品服务</p>
+												  </div>
+												  <div class="green-cont">
+													   <p>连接工业资产，打通连接层、平台层、应用层，提供端到端的一站式工业互联网产品</p>
+												  </div>
+												  <a class="green-more">查看详情</a>
+											</div>
+									  </div>
+
+									  <div class="item">
+										  <div class="item-topic2">
+											 <img src="repository/image/202001140001.png" class="img-response" alt="">
+										  </div>
+										  <div class="item-tinfo2">
+											  <h2>人员实时定位管理</h2>
+											  <p>人员实时分布总览、厂内人员分类统计、视频画面实时查看</p>
+										  </div>
+									  </div>
+
+									  <div class="item">
+										  <div class="item-topic2">
+											  <img src="repository/image/202001140002.png" class="img-response" alt="">
+										  </div>
+										  <div class="item-tinfo">
+											  <h2>访客安全管理</h2>
+											  <p>访客位置实时追踪、访客越权访问立即预警、访客智能登记与身份审核</p>
+											  <!--
+											  <a class="item-more2">查看详情</a>
+											  -->
+										  </div>
+									  </div>
+
+									  <div class="item">
+										  <div class="item-topic2">
+											  <img src="repository/image/202001140003.png" class="img-response" alt="">
+										  </div>
+										  <div class="item-tinfo">
+											  <h2>危险作业管理</h2>
+											  <p>作业计划书实时状态管理、作业许可证实时状态管理、作业危险情况预警、PDA智能化审批与执行</p>
 										  </div>
 									  </div>
 								</div>	

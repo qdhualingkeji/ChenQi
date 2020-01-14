@@ -61,7 +61,7 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
     margin-left:-46px;
     bottom:-22px;
 }
-.index-item1 .item{width:275px;float:left;background: #F9F9F9;margin-right:17px;position: relative;-webkit-transition: all 0.6s;transition: all 0.6s;}
+.index-item1 .item{width:255px;float:left;background: #F9F9F9;margin-right:17px;position: relative;-webkit-transition: all 0.6s;transition: all 0.6s;}
 .index-item1 .item:hover{background: #fff;-webkit-box-shadow:0px 2px 5px rgba(0, 0, 0, 0.1);box-shadow:0px 2px 5px rgba(0, 0, 0, 0.1);}
 .index-item1 .item .item-gray{position: absolute;top:0;left:0;z-index:2;}
 .index-item1 .item .itemin{padding:32px 24px 26px;position: relative;z-index:10;}
@@ -146,7 +146,7 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 }
 /*=================================== 精选产品========================================= */
 .index-jxcp{margin-bottom:0.8rem;}
-.jxcplist .item{width:342px;height:4.28rem;margin-right:1.66%;background:#fff;float:left;position: relative;}
+.jxcplist .item{width:317px;height:4.28rem;margin-right:1.66%;background:#fff;float:left;position: relative;}
 .jxcplist .item:last-child{margin:0;}
 .jxcplist .item-green{background: #00B259;position: relative;}
 .jxcplist .item-green::before{display:block;content:''; position: absolute;left:0;top:0;height:100%;width:16px;background: #0CA056;z-index:30;}
@@ -553,7 +553,7 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 }
 /*===================================合作客户======================================== */
 .client{min-height:300px;margin-bottom:30px;}
-.client-list li{width:20%;height:110px;float:left;margin:15px 0px;position: relative;}
+.client-list li{width:20%;height:103px;float:left;margin:15px 0px;position: relative;}
 .client-list li a{display:block;height:110px;width:100%;display: table-cell;vertical-align: middle;}
 .client-list li img{display: block;vertical-align: middle;
     max-width: 100%;
