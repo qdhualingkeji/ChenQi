@@ -378,13 +378,13 @@ background-size: 40px!important;
 									</a>
 								</div> 
 								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
-									<a href="proIntro.html">
-										<div class="out-link" data-v-b0677670="">产品介绍</div>
+									<a href="thingsMes.html">
+										<div class="out-link" data-v-b0677670="">物联MES</div>
 									</a>
 								</div>				
 								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
 									<a href="contactUs.html">
-										<div class="out-link" data-v-b0677670="">联系我们</div>
+										<div class="out-link" data-v-b0677670="">关于我们</div>
 									</a>
 								</div> 
 							</div>

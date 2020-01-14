@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>ic_index_platform</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_index_platform" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <circle id="Oval" stroke="#21252E" stroke-width="2" cx="36" cy="36" r="35"/>
+            <path d="M26.4438012,26.5896566 C24.0594774,29.0107038 22.5882353,32.3335384 22.5882353,36 C22.5882353,43.4071131 28.5928869,49.4117647 36,49.4117647 L36,49.4117647 C43.4071131,49.4117647 49.4117647,43.4071131 49.4117647,36" id="Path" stroke="#2665F6" stroke-width="2"/>
+            <path d="M18.4979381,19.0588235 C14.0430174,23.5517682 11.2941176,29.718237 11.2941176,36.5224039 C11.2941176,50.2684183 22.5133351,61.4117647 36.3529412,61.4117647 C40.4080663,61.4117647 44.2382202,60.4550627 47.627091,58.756508 C50.4762428,57.3284688 53.0134779,55.3760583 55.1102492,53.0269545 C59.0310873,48.6342694 61.4117647,42.854475 61.4117647,36.5224039" id="Path-Copy-3" stroke="#00B259" stroke-width="2"/>
+            <circle id="Oval" stroke="#00B259" stroke-width="2" fill="#FFFFFF" cx="50.8235294" cy="55.0588235" r="4.64705882"/>
+            <g id="Group-3" transform="translate(4.941176, 4.941176)" fill="#D8D8D8" opacity="0.859095982">
+                <circle id="Oval" cx="31.1470588" cy="1.5" r="1.5"/>
+                <circle id="Oval-Copy-7" cx="31.1470588" cy="13.5" r="1.5"/>
+                <circle id="Oval-Copy-8" cx="31.1470588" cy="25.5" r="1.5"/>
+                <circle id="Oval-Copy-9" cx="31.1470588" cy="37.5" r="1.5"/>
+                <circle id="Oval-Copy-12" cx="1.5" cy="31.8529412" r="1.5"/>
+                <circle id="Oval-Copy-13" cx="13.5" cy="31.8529412" r="1.5"/>
+                <circle id="Oval-Copy-14" cx="25.5" cy="31.8529412" r="1.5"/>
+                <circle id="Oval-Copy-15" cx="37.5" cy="31.8529412" r="1.5"/>
+                <circle id="Oval-Copy-16" cx="49.5" cy="31.8529412" r="1.5"/>
+                <circle id="Oval-Copy-17" cx="61.5" cy="31.8529412" r="1.5"/>
+                <circle id="Oval-Copy-10" cx="31.1470588" cy="49.5" r="1.5"/>
+                <circle id="Oval-Copy-11" cx="31.1470588" cy="61.5" r="1.5"/>
+            </g>
+            <path d="M36,36 L14.4705882,15.1764706" id="Line" stroke="#00B259" stroke-width="2" stroke-linecap="square"/>
+        </g>
+    </g>
+</svg>

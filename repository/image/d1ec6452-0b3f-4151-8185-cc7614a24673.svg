@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>ic_index_link</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_index_link" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.000000, 0.000000)" stroke-width="2">
+            <ellipse id="Oval" stroke="#21252E" cx="31.6831683" cy="6.31578947" rx="5.33663366" ry="5.31578947"/>
+            <ellipse id="Oval-Copy" stroke="#21252E" cx="31.6831683" cy="65.6842105" rx="5.33663366" ry="5.31578947"/>
+            <ellipse id="Oval-Copy-3" stroke="#21252E" cx="57.6633663" cy="20.8421053" rx="5.33663366" ry="5.31578947"/>
+            <ellipse id="Oval-Copy-4" stroke="#21252E" cx="6.33663366" cy="20.8421053" rx="5.33663366" ry="5.31578947"/>
+            <ellipse id="Oval-Copy-5" stroke="#21252E" cx="6.33663366" cy="50.5263158" rx="5.33663366" ry="5.31578947"/>
+            <rect id="Rectangle" stroke="#21252E" x="32.049505" y="16.7894737" width="1" height="8.10526316"/>
+            <rect id="Rectangle-Copy" stroke="#21252E" x="32.049505" y="47.1052632" width="1" height="8.10526316"/>
+            <rect id="Rectangle-Copy-2" stroke="#21252E" x="6.7029703" y="31.9473684" width="1" height="8.10526316"/>
+            <rect id="Rectangle-Copy-3" stroke="#21252E" x="58.029703" y="31.9473684" width="1" height="8.10526316"/>
+            <path d="M11.1116955,18.510074 L26.7509282,9.31548109" id="Path" stroke="#21252E"/>
+            <path d="M11.1116955,62.8788035 L26.7509282,53.6842105" id="Path-Copy" stroke="#21252E" transform="translate(18.931312, 58.281507) scale(1, -1) translate(-18.931312, -58.281507) "/>
+            <path d="M37.0918936,18.510074 L52.7311262,9.31548109" id="Path" stroke="#21252E" transform="translate(44.911510, 13.912778) scale(-1, 1) translate(-44.911510, -13.912778) "/>
+            <path d="M37.0918936,62.8788035 L52.7311262,53.6842105" id="Path-Copy-2" stroke="#21252E" transform="translate(44.911510, 58.281507) scale(-1, -1) translate(-44.911510, -58.281507) "/>
+            <ellipse id="Oval-Copy-2" stroke="#2665F6" cx="57.6633663" cy="50.5263158" rx="5.33663366" ry="5.31578947"/>
+            <path d="M11.1116955,24.0385485 L26.7509282,32.943565" id="Path-2" stroke="#21252E"/>
+            <path d="M37.0918936,24.0385485 L52.7311262,32.943565" id="Path-2" stroke="#21252E" transform="translate(44.911510, 28.491057) scale(-1, 1) translate(-44.911510, -28.491057) "/>
+            <path d="M37.0918936,39.1964433 L52.7311262,48.1014597" id="Path-2" stroke="#2665F6" transform="translate(44.911510, 43.648951) scale(-1, -1) translate(-44.911510, -43.648951) "/>
+            <path d="M11.1116955,39.1964433 L26.7509282,48.1014597" id="Path-2" stroke="#21252E" transform="translate(18.931312, 43.648951) scale(1, -1) translate(-18.931312, -43.648951) "/>
+            <ellipse id="Oval-Copy-6" stroke="#00B259" cx="31.6831683" cy="36" rx="5.33663366" ry="5.31578947"/>
+        </g>
+    </g>
+</svg>

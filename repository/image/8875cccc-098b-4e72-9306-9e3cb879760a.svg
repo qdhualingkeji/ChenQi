@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic_index_safety</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ic_index_safety" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.500000)" stroke-width="2">
+            <circle id="Oval" stroke="#2665F6" cx="35.4794521" cy="18.2191781" r="5.75342466"/>
+            <polyline id="Path-2" stroke="#21252E" stroke-linejoin="bevel" points="8.77415343 28.3379801 1.25649504 34.1392596 29.2259739 53.6529711"/>
+            <polyline id="Path-2" stroke="#21252E" stroke-linejoin="bevel" transform="translate(52.270381, 42.978059) scale(-1, 1) translate(-52.270381, -42.978059) " points="42.8523836 28.3740165 35.3347252 34.175296 69.2060367 57.5821014"/>
+            <line x1="1.25649504" y1="22.5137097" x2="1.25649504" y2="40.7661472" id="Path-4" stroke="#21252E"/>
+            <polygon id="Path" stroke="#00B259" points="35.2394031 0 69.4129554 22.6907272 35.2394031 45.4860763 1.25649504 22.7430381"/>
+            <polyline id="Path-5" stroke="#21252E" stroke-linecap="square" stroke-linejoin="bevel" points="69.4129554 28.3740165 69.4129554 45.4860763 61.6285114 39.8370797"/>
+            <line x1="35.3347252" y1="24.2019312" x2="35.3347252" y2="68.6127277" id="Path-6" stroke="#2665F6"/>
+            <polyline id="Path-3" stroke="#21252E" points="8.63988877 39.8370797 1.25649504 45.4860763 35.3347252 68.6127277 64.487593 49.3890511"/>
+        </g>
+    </g>
+</svg>
