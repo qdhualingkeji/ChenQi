@@ -159,6 +159,11 @@
 									</a>
 								</div>				
 								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
+									<a href="thingsPerFix.html">
+										<div class="out-link" data-v-b0677670="">物联人员定位</div>
+									</a>
+								</div>				
+								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
 									<a href="aboutUs.html">
 										<div class="out-link" data-v-b0677670="">关于我们</div>
 									</a>
@@ -432,7 +437,7 @@
 												  <div class="green-cont">
 													   <p>连接工业资产，打通连接层、平台层、应用层，提供端到端的一站式工业互联网产品</p>
 												  </div>
-												  <a class="green-more">查看详情</a>
+												  <a class="green-more" href="thingsMes.html">查看详情</a>
 											</div>
 									  </div>
 
@@ -518,7 +523,7 @@
 										  <div class="item-topic2">
 											  <img src="repository/image/202001140002.png" class="img-response" alt="">
 										  </div>
-										  <div class="item-tinfo">
+										  <div class="item-tinfo2">
 											  <h2>访客安全管理</h2>
 											  <p>访客位置实时追踪、访客越权访问立即预警、访客智能登记与身份审核</p>
 											  <!--
@@ -531,7 +536,7 @@
 										  <div class="item-topic2">
 											  <img src="repository/image/202001140003.png" class="img-response" alt="">
 										  </div>
-										  <div class="item-tinfo">
+										  <div class="item-tinfo2">
 											  <h2>危险作业管理</h2>
 											  <p>作业计划书实时状态管理、作业许可证实时状态管理、作业危险情况预警、PDA智能化审批与执行</p>
 										  </div>
