@@ -33,7 +33,12 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 .next1{top:0px;right:0px;margin:0;height:0.48rem;width:0.48rem;background:rgba(255,255,255,0.2);-webkit-transition:  all 0.4s;transition:  all 0.4s;z-index: 20;}
 .prev1{top:0.6rem;right:0px;left:auto;margin:0;height:0.48rem;width:0.48rem;background:rgba(255,255,255,0.2);-webkit-transition:  all 0.4s;transition:  all 0.4s;z-index: 20;}
 /*=================================== 首页中心=================================*/
-.index-pszz{padding-top:64px;margin-bottom:80px;}
+.index-pszz{
+	/*
+	padding-top:64px;
+	*/
+	margin-bottom:80px;
+}
 .container-tit h2{
     width:100%;
     text-align: center;

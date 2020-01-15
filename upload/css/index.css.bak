@@ -33,7 +33,10 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 .next1{top:0px;right:0px;margin:0;height:0.48rem;width:0.48rem;background:rgba(255,255,255,0.2);-webkit-transition:  all 0.4s;transition:  all 0.4s;z-index: 20;}
 .prev1{top:0.6rem;right:0px;left:auto;margin:0;height:0.48rem;width:0.48rem;background:rgba(255,255,255,0.2);-webkit-transition:  all 0.4s;transition:  all 0.4s;z-index: 20;}
 /*=================================== 首页中心=================================*/
-.index-pszz{padding-top:64px;margin-bottom:80px;}
+.index-pszz{
+	padding-top:64px;
+	margin-bottom:80px;
+}
 .container-tit h2{
     width:100%;
     text-align: center;
@@ -553,7 +556,7 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 }
 /*===================================合作客户======================================== */
 .client{min-height:300px;margin-bottom:30px;}
-.client-list li{width:20%;height:110px;float:left;margin:15px 0px;position: relative;}
+.client-list li{width:20%;height:103px;float:left;margin:15px 0px;position: relative;}
 .client-list li a{display:block;height:110px;width:100%;display: table-cell;vertical-align: middle;}
 .client-list li img{display: block;vertical-align: middle;
     max-width: 100%;
