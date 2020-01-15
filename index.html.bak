@@ -505,13 +505,13 @@
 												  <div class="green-cont">
 													   <p>连接工业资产，打通连接层、平台层、应用层，提供端到端的一站式工业互联网产品</p>
 												  </div>
-												  <a class="green-more">查看详情</a>
+												  <a class="green-more" href="thingsPerFix.html">查看详情</a>
 											</div>
 									  </div>
 
 									  <div class="item">
 										  <div class="item-topic2">
-											 <img src="repository/image/202001140001.png" class="img-response" alt="">
+											 <img src="repository/image/202001140001.jpg" class="img-response" alt="" style="width:317px;height:226px;">
 										  </div>
 										  <div class="item-tinfo2">
 											  <h2>人员实时定位管理</h2>
@@ -521,7 +521,7 @@
 
 									  <div class="item">
 										  <div class="item-topic2">
-											  <img src="repository/image/202001140002.png" class="img-response" alt="">
+											  <img src="repository/image/202001140002.jpg" class="img-response" alt="">
 										  </div>
 										  <div class="item-tinfo2">
 											  <h2>访客安全管理</h2>
