@@ -358,7 +358,7 @@
 												 <img src="repository/image/d1ec6452-0b3f-4151-8185-cc7614a24673.svg" alt="">
 											   </div>
 											   <h2>能连接</h2>
-											   <p>低成本、普适应的连接 即插即用99%+自动识别 按需付费</p>
+											   <p>低成本、高兼容性与PLC、DCS等控制系统进行通讯连接，完成过程数据实时采集</p>
 											 </div>
 										 </div>
 										 <div class="item">
@@ -388,7 +388,7 @@
 												   <img src="repository/image/97b3630b-9ab4-4840-af28-2182746432e5.svg" alt="">
 											   </div>
 											   <h2>高智能</h2>
-											   <p>以AI为第一生产力  基于OT+IT数据 加工分析 建模学习 挖掘工业核心价值</p>
+											   <p>完全基于云数据库的系统开发，优化企业智能制造，挖掘核心价值</p>
 											 </div>
 										 </div>
 										 <div class="item">
@@ -432,7 +432,7 @@
 									  <div class="item item-green">
 											<div class="itempd">
 												  <div class="greent-title">
-													   <p>多维度的产品种类，为您 提供优质的产品服务</p>
+													   <p>手机、笔记本等任一终端实现远程实时工业数据监控，挖掘过程控制数据，生成真实报表，MES系统扩展</p>
 												  </div>
 												  <div class="green-cont">
 													   <p>连接工业资产，打通连接层、平台层、应用层，提供端到端的一站式工业互联网产品</p>
@@ -500,10 +500,10 @@
 									  <div class="item item-green">
 											<div class="itempd">
 												  <div class="greent-title">
-													   <p>多维度的产品种类，为您 提供优质的产品服务</p>
+													   <p>创新技术融合实现高精度智能化人员定位管理</p>
 												  </div>
 												  <div class="green-cont">
-													   <p>连接工业资产，打通连接层、平台层、应用层，提供端到端的一站式工业互联网产品</p>
+													   <p>国际领先的室内外定位技术，让厂区内人员、物资、车辆的实时位置、分布区域、预警信息等以可视化形式全面展现</p>
 												  </div>
 												  <a class="green-more" href="thingsPerFix.html">查看详情</a>
 											</div>
@@ -511,7 +511,7 @@
 
 									  <div class="item">
 										  <div class="item-topic2">
-											 <img src="repository/image/202001140001.jpg" class="img-response" alt="" style="width:317px;height:226px;">
+											 <img src="repository/image/202001140001.jpg" alt="" style="width:317px;height:226px;">
 										  </div>
 										  <div class="item-tinfo2">
 											  <h2>人员实时定位管理</h2>
