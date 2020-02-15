@@ -31,8 +31,10 @@
 		swiperPageIndex++;
 	}
 
-	if(swiperPageIndex>=3||swiperPageIndex<=0)
+	if(swiperPageIndex>=3)
 		swiperPageIndex=0;
+	else if(swiperPageIndex<0)
+		swiperPageIndex=2;
 	console.log(swiperPageIndex);
 	$("#swiper-wrapper_div #swiper-slide_div").css("display","none");
 	$("#swiper-wrapper_div #swiper-slide_div").eq(swiperPageIndex).css("display","block");
@@ -173,9 +175,6 @@
 					  </div> 
 					  <div id="line" data-v-b0677670="" class=""></div> 
 					  <div class="header-contain" data-v-b0677670="">
-							<div id="logo-icon" data-v-b0677670="" class="">
-								<img src="_nuxt/img/be31463.svg" alt="返回首页" class="logo" data-v-b0677670="" height="40">
-							</div> 
 							<div class="but-list" data-v-b0677670="" style="margin-right: 260px;">
 								<div class="but-style" data-v-b0677670="">
 									<a href="index.html">

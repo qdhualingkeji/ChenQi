@@ -26,8 +26,10 @@
 		swiperPageIndex++;
 	}
 
-	if(swiperPageIndex>=3||swiperPageIndex<=0)
+	if(swiperPageIndex>=3)
 		swiperPageIndex=0;
+	else if(swiperPageIndex<0)
+		swiperPageIndex=2;
 	console.log(swiperPageIndex);
 	$("#swiper-wrapper_div #swiper-slide_div").css("display","none");
 	$("#swiper-wrapper_div #swiper-slide_div").eq(swiperPageIndex).css("display","block");
