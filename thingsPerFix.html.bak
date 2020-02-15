@@ -85,7 +85,7 @@
 								<img src="_nuxt/img/be31463.svg" alt="返回首页" class="logo" data-v-b0677670="" height="40">
 							</div> 
 							<div class="but-list" data-v-b0677670="">
-								<div class="but-style" data-v-b0677670="">
+								<div class="but-style" data-v-b0677670="" style="margin-right: 260px;">
 									<a href="index.html">
 										<div class="out-link" data-v-b0677670="">首页</div>
 									</a>
@@ -170,7 +170,7 @@
 								  <div class="wordWrap wordWrap_m" style="height: 72px; text-align: left; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px; font-size: 24px;" data-v-38a36330="">
 									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">高精度人员定位系统架构</div>
 								  </div> 
-								  <div style="width: 800px;height: 60px;line-height:60px;margin: 0 auto;font-size:16px;color:#303030;">
+								  <div style="width: 825px;height: 60px;line-height:60px;margin: 0 auto;font-size:16px;color:#303030;">
 									  ● 定位信标：&nbsp;&nbsp;1.IP68防水抗压防腐，续航10年，部署无需拉电施工&nbsp;&nbsp;2.本质安全防爆认证，可用于最危险的0区环境 ●
 								  </div>
 								  <div class="img-div" data-v-38a36330="" style="border:#eee solid 1px;">
