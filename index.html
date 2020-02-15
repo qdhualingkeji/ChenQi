@@ -12,6 +12,35 @@
   <script data-n-head="true" src="https://hm.baidu.com/hm.js?9922b78c7ff5ed23c61a5daf601f7cfb"></script>
   <script data-n-head="true" src="https://assets.giocdn.com/2.1/gio.js"></script>
   <script data-n-head="true" src="https://dts-visitor.haier.net:8443/visitor/js/xiaoneng.js?siteid=kf_10024" id="xiaonengjs"></script>
+  <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+  <script type="text/javascript">
+  var swiperPageIndex=0;
+  $(function(){
+    //alert($("#swiper-wrapper_div #swiper-slide_div").eq(1).css("transform","translate3d(0px, 0px, 0px)"));
+	  setInterval("changeSwiperPage()","5000","1000");
+  });
+
+  function changeSwiperPage(flag){
+	if(flag=="prev"){
+		swiperPageIndex--;
+	}
+	else if(flag=="next"){
+		swiperPageIndex++;
+	}
+	else{
+		swiperPageIndex++;
+	}
+
+	if(swiperPageIndex>=3||swiperPageIndex<=0)
+		swiperPageIndex=0;
+	console.log(swiperPageIndex);
+	$("#swiper-wrapper_div #swiper-slide_div").css("display","none");
+	$("#swiper-wrapper_div #swiper-slide_div").eq(swiperPageIndex).css("display","block");
+
+	$("#swiper-pagination_div #bullet_span").attr("class","swiper-pagination-bullet");
+	$("#swiper-pagination_div #bullet_span").eq(swiperPageIndex).attr("class","swiper-pagination-bullet swiper-pagination-bullet-active");
+  }
+  </script>
   <link rel="preload" href="/_nuxt/220549b5b638d05d17db.js" as="script">
   <link rel="preload" href="_nuxt/25721acd0e0808a7be01.js" as="script">
   <link rel="preload" href="_nuxt/ba009e322d6395fd2da6.css" as="style">
@@ -212,60 +241,26 @@
 							  </div>
 						  </div> 
 						  <div class="hidden-sm-and-down de-banner" data-v-2c4d4377="">
-							  <div style="height: 513.81px;" data-v-2c4d4377="" class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal">
-								  <div class="swiper-wrapper" data-v-2c4d4377="" style="transition-duration: 1000ms;">
-									  <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-v-2c4d4377="" data-swiper-slide-index="4" style="width: 1903px; transition-duration: 1000ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
-										  <!----> 
-										  <div data-v-2c4d4377="">
-											<video autoplay="autoplay" muted="muted" loop="loop" class="swiper-lazy swiper-lazy-loaded" style="width:100%;display:block" data-v-2c4d4377="" src="cosmoplat/bannervideo/tianhe-new.mp4"></video>
-										  </div>
+							  <div data-v-2c4d4377="" class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal">
+								  <div class="swiper-wrapper" id="swiper-wrapper_div" data-v-2c4d4377="" style="transition-duration: 1000ms;">
+									  
+									  <div class="swiper-slide" id="swiper-slide_div" data-v-2c4d4377="" data-swiper-slide-index="0">
+										  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150001.jpg">
 									  </div>
-									  <div class="swiper-slide swiper-slide-duplicate-next" data-v-2c4d4377="" data-swiper-slide-index="0" style="width: 1903px; transition-duration: 1000ms; opacity: 1; transform: translate3d(-1903px, 0px, 0px);">
-										  <div data-v-2c4d4377="">
-											<img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/e722f1f.jpg"> 
-										  </div> 
-										  <!---->
+									  <div class="swiper-slide" id="swiper-slide_div" style="display:none;" data-v-2c4d4377="" data-swiper-slide-index="0">
+										  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150002.jpg"> 
 									  </div>
-									  <div class="swiper-slide" data-v-2c4d4377="" data-swiper-slide-index="1" style="width: 1903px; transition-duration: 1000ms; opacity: 1; transform: translate3d(-3806px, 0px, 0px);">
-										  <div data-v-2c4d4377="">
-											<img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/c1849fd.png"> 
-										  </div> 
-										  <!---->
-									  </div>
-									  <div class="swiper-slide" data-v-2c4d4377="" data-swiper-slide-index="2" style="width: 1903px; transition-duration: 1000ms; opacity: 1; transform: translate3d(-5709px, 0px, 0px);">
-										  <div data-v-2c4d4377="">
-											<img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/5eee124.png"> 
-										  </div> 
-										  <!---->
-									  </div>
-									  <div class="swiper-slide swiper-slide-prev" data-v-2c4d4377="" data-swiper-slide-index="3" style="width: 1903px; transition-duration: 1000ms; opacity: 1; transform: translate3d(-7612px, 0px, 0px);">
-										  <!----> 
-										  <div data-v-2c4d4377="">
-											<video autoplay="autoplay" muted="muted" loop="loop" class="swiper-lazy swiper-lazy-loaded" style="width:100%;display:block" data-v-2c4d4377="" src="cosmoplat/bannervideo/home12.mp4"></video>
-										  </div>
-									  </div>
-									  <div class="swiper-slide swiper-slide-active" data-v-2c4d4377="" data-swiper-slide-index="4" style="width: 1903px; transition-duration: 1000ms; opacity: 1; transform: translate3d(-9515px, 0px, 0px);">
-										  <!----> 
-										  <div data-v-2c4d4377="">
-											<video autoplay="autoplay" muted="muted" loop="loop" class="swiper-lazy swiper-lazy-loaded" style="width:100%;display:block" data-v-2c4d4377="" src="cosmoplat/bannervideo/tianhe-new.mp4"></video>
-										  </div>
-									  </div>
-									  <div class="swiper-slide swiper-slide-duplicate swiper-slide-next" data-v-2c4d4377="" data-swiper-slide-index="0" style="width: 1903px; transition-duration: 1000ms; opacity: 0; transform: translate3d(-11418px, 0px, 0px);">
-										  <div data-v-2c4d4377="">
-											<img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/e722f1f.jpg"> 
-										  </div> 
-										  <!---->
+									  <div class="swiper-slide" id="swiper-slide_div" style="display:none;" data-v-2c4d4377="" data-swiper-slide-index="0">
+										  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150003.jpg"> 
 									  </div>
 								  </div> 
-								  <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-white" data-v-2c4d4377="">
-									  <span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span>
-									  <span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span>
-									  <span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span>
-									  <span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span>
-									  <span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 5"></span>
+								  <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-white" id="swiper-pagination_div" data-v-2c4d4377="">
+									  <span class="swiper-pagination-bullet swiper-pagination-bullet-active" id="bullet_span" tabindex="0" role="button" aria-label="Go to slide 1"></span>
+									  <span class="swiper-pagination-bullet" id="bullet_span" tabindex="0" role="button" aria-label="Go to slide 2"></span>
+									  <span class="swiper-pagination-bullet" id="bullet_span" tabindex="0" role="button" aria-label="Go to slide 3"></span>
 								  </div> 
-								  <div class="swiper-button-next swiper-button-white" data-v-2c4d4377="" tabindex="0" role="button" aria-label="Next slide"></div> 
-								  <div class="swiper-button-prev swiper-button-white" data-v-2c4d4377="" tabindex="0" role="button" aria-label="Previous slide"></div>
+								  <div class="swiper-button-next swiper-button-white" data-v-2c4d4377="" tabindex="0" role="button" aria-label="Next slide" onclick="changeSwiperPage('next')"></div> 
+								  <div class="swiper-button-prev swiper-button-white" data-v-2c4d4377="" tabindex="0" role="button" aria-label="Previous slide" onclick="changeSwiperPage('prev')"></div>
 								  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
 							  </div>
 						  </div>
