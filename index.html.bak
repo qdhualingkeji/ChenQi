@@ -17,7 +17,7 @@
   var swiperPageIndex=0;
   $(function(){
     //alert($("#swiper-wrapper_div #swiper-slide_div").eq(1).css("transform","translate3d(0px, 0px, 0px)"));
-	//setInterval("changeSwiperPage()","5000","1000");
+	  setInterval("changeSwiperPage()","5000","1000");
   });
 
   function changeSwiperPage(flag){
@@ -208,38 +208,7 @@
 			  <div data-v-6cb270da="">
 				  <div class="de-container" data-v-6cb270da="">
 					  <div data-v-2c4d4377="" data-v-6cb270da="">
-						  <div class="hidden-md-and-up de-banner" data-v-2c4d4377="">
-							  <div data-v-2c4d4377="" class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal">
-								  <div class="swiper-wrapper" data-v-2c4d4377="" style="transition-duration: 0ms;">
-									  <div class="swiper-slide swiper-slide-duplicate" data-v-2c4d4377="" data-swiper-slide-index="2">
-										  <a target="_blank" href="" data-v-2c4d4377="">
-											<img src="/_nuxt/img/2f2e6b5.png" data-v-2c4d4377="">
-										  </a>
-									  </div>
-									  <div class="swiper-slide" data-v-2c4d4377="" data-swiper-slide-index="0">
-										  <a target="_blank" href="http://www.365ind.com/home/index#utm_source=cosmo_banner" data-v-2c4d4377="">
-											<img src="/_nuxt/img/cb2db32.png" data-v-2c4d4377="">
-										  </a>
-									  </div>
-									  <div class="swiper-slide" data-v-2c4d4377="" data-swiper-slide-index="1">
-										  <a target="_blank" href="https://market.cosmoplat.com/activityAreas.htm" data-v-2c4d4377="">
-											<img src="/_nuxt/img/1b7b6bb.jpg" data-v-2c4d4377="">
-										  </a>
-									  </div>
-									  <div class="swiper-slide" data-v-2c4d4377="" data-swiper-slide-index="2">
-										  <a target="_blank" href="" data-v-2c4d4377="">
-											<img src="/_nuxt/img/2f2e6b5.png" data-v-2c4d4377="">
-										  </a>
-									  </div>
-									  <div class="swiper-slide swiper-slide-duplicate" data-v-2c4d4377="" data-swiper-slide-index="0">
-										  <a target="_blank" href="http://www.365ind.com/home/index#utm_source=cosmo_banner" data-v-2c4d4377="">
-											<img src="/_nuxt/img/cb2db32.png" data-v-2c4d4377="">
-										  </a>
-									  </div>
-								  </div>
-								  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-							  </div>
-						  </div> 
+						 
 						  <div class="hidden-sm-and-down de-banner" data-v-2c4d4377="">
 							  <div data-v-2c4d4377="" class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal">
 								  <div class="swiper-wrapper" id="swiper-wrapper_div" data-v-2c4d4377="" style="transition-duration: 1000ms;">

@@ -8,6 +8,36 @@
   <script src="https://hm.baidu.com/hm.js?9922b78c7ff5ed23c61a5daf601f7cfb" data-n-head="true"></script>
   <script src="https://assets.giocdn.com/2.1/gio.js" data-n-head="true"></script>
   <script id="xiaonengjs" src="visitor/js/xiaoneng.js?siteid=kf_10024" data-n-head="true"></script>
+  <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+  <script type="text/javascript">
+  var swiperPageIndex=0;
+  $(function(){
+	  setInterval("changeSwiperPage()","5000","1000");
+  });
+
+  function changeSwiperPage(flag){
+	if(flag=="prev"){
+		swiperPageIndex--;
+	}
+	else if(flag=="next"){
+		swiperPageIndex++;
+	}
+	else{
+		swiperPageIndex++;
+	}
+
+	if(swiperPageIndex>=3)
+		swiperPageIndex=0;
+	else if(swiperPageIndex<0)
+		swiperPageIndex=2;
+	console.log(swiperPageIndex);
+	$("#swiper-wrapper_div #swiper-slide_div").css("display","none");
+	$("#swiper-wrapper_div #swiper-slide_div").eq(swiperPageIndex).css("display","block");
+
+	$("#swiper-pagination_div #bullet_span").attr("class","swiper-pagination-bullet");
+	$("#swiper-pagination_div #bullet_span").eq(swiperPageIndex).attr("class","swiper-pagination-bullet swiper-pagination-bullet-active");
+  }
+  </script>
   <link href="_nuxt/ec74520de93fd2abfa2e.js" rel="preload" as="script">
   <link href="_nuxt/25721acd0e0808a7be01.js" rel="preload" as="script">
   <link href="_nuxt/ba009e322d6395fd2da6.css" rel="preload" as="style">
@@ -55,6 +85,9 @@
 	width:100%;
 	height:30px;
 }
+.swiper-slide img{
+	width:100%;
+}
 </style>
 </head>
 <body style="height: 100%;">
@@ -84,8 +117,8 @@
 							<div id="logo-icon" data-v-b0677670="" class="">
 								<img src="_nuxt/img/be31463.svg" alt="返回首页" class="logo" data-v-b0677670="" height="40">
 							</div> 
-							<div class="but-list" data-v-b0677670="">
-								<div class="but-style" data-v-b0677670="" style="margin-right: 260px;">
+							<div class="but-list" data-v-b0677670="" style="margin-right: 260px;">
+								<div class="but-style" data-v-b0677670="">
 									<a href="index.html">
 										<div class="out-link" data-v-b0677670="">首页</div>
 									</a>
@@ -115,39 +148,33 @@
 			  <div id="cosmo_root">
 				  <div class="content" node="[object Object]">
 					  <div class="gateway_item">
-						  <div>
-							  <div>
-								  <div>
-									  <img class="img_bg img_bg_m" src="file/20190728/banner_da2a4716-cbb7-480a-bbee-4c9ac2f2c370.png" lazy="loaded" data-src="file/20190728/banner_da2a4716-cbb7-480a-bbee-4c9ac2f2c370.png" srcset="file/20190728/banner_da2a4716-cbb7-480a-bbee-4c9ac2f2c370.png 1023w, file/20190728/banner_da2a4716-cbb7-480a-bbee-4c9ac2f2c370.png">
-								  </div> 
-								  <div class="banner-title banner-title-m">
-									  <div class="container el-row">
-										  <div class="el-col el-col-24">
-											  <div class="banner-h1 banner-h1-m">
-												化工行业解决方案
-											  </div> 
-											  <div class="banner-entitle banner-entitle-m">
-												
-											  </div> 
-											  <div class="banner-titlep banner-titlep-m">
-												智慧化工解决方案通过智慧监控平台的建立，将原来分散、凌乱的业务系统在业务与数据两个层面实现全面整合，平台将科学的管理理念和先进的技术手段紧密结合起来，以提升区域的环境/人员/设备监管、综合治理和科学决策能力目标，对于化工企业实现信息化管理，进而实现化工企业智能化。
-											  </div> 
-											  <div class="banner-but banner-but-m">
-												  <button class="el-button banner-btn-m el-button--default is-plain" type="button">
-													  <!---->
-													  <!---->
-													  <span>方案咨询</span>
-												  </button> 
-												  <button class="el-button banner-m-two banner-btn-m el-button--default is-plain" type="button"><!----><!---->
-													<span>平台体验</span>
-												  </button> 
-												  <!---->
-											  </div>
-										  </div>
+						  
+							<div data-v-2c4d4377="" class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal">
+								  <div class="swiper-wrapper" id="swiper-wrapper_div" data-v-2c4d4377="" style="transition-duration: 1000ms;">
+									  
+									  <div class="swiper-slide" id="swiper-slide_div" data-v-2c4d4377="" data-swiper-slide-index="0">
+										  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150001.jpg">
 									  </div>
-								  </div>
+									  <div class="swiper-slide" id="swiper-slide_div" style="display:none;" data-v-2c4d4377="" data-swiper-slide-index="0">
+										  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150002.jpg"> 
+									  </div>
+									  <div class="swiper-slide" id="swiper-slide_div" style="display:none;" data-v-2c4d4377="" data-swiper-slide-index="0">
+										  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150003.jpg"> 
+									  </div>
+								  </div> 
+								  <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-white" id="swiper-pagination_div" data-v-2c4d4377="">
+									  <span class="swiper-pagination-bullet swiper-pagination-bullet-active" id="bullet_span" tabindex="0" role="button" aria-label="Go to slide 1"></span>
+									  <span class="swiper-pagination-bullet" id="bullet_span" tabindex="0" role="button" aria-label="Go to slide 2"></span>
+									  <span class="swiper-pagination-bullet" id="bullet_span" tabindex="0" role="button" aria-label="Go to slide 3"></span>
+								  </div> 
+								  <div class="swiper-button-next swiper-button-white" data-v-2c4d4377="" tabindex="0" role="button" aria-label="Next slide" onclick="changeSwiperPage('next')"></div> 
+								  <div class="swiper-button-prev swiper-button-white" data-v-2c4d4377="" tabindex="0" role="button" aria-label="Previous slide" onclick="changeSwiperPage('prev')"></div>
+								  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
 							  </div>
-						  </div>
+
+
+
+
 					  </div>
 					  <!--
 					  <div class="gateway_item">
