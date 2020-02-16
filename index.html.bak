@@ -293,6 +293,7 @@
 	<div x-arrow="" class="popper__arrow" style="left: 25.5px;"></div>
 </ul>
 
+<div style="height:100px;"></div>
 
 <div id="w_grid-1568794386328" class="w_grid-000">
 	<div class="w_grid signal">   
@@ -715,9 +716,6 @@
 													  <p class="email">
 														  <a href="mailto:partner@rootcloud.com" style="color:#fff;">partner@rootcloud.com</a>
 													  </p>
-												  </div>
-												  <div class="layui-col-md4 erwm">
-													  <img src="/repository/image/sNmyd9pYTGuUNcheSEmhJA.jpeg" class="img-response" alt="树根互联">
 												  </div>
 											  </div>
 										  </div>

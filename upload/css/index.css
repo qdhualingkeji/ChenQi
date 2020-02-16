@@ -34,9 +34,7 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 .prev1{top:0.6rem;right:0px;left:auto;margin:0;height:0.48rem;width:0.48rem;background:rgba(255,255,255,0.2);-webkit-transition:  all 0.4s;transition:  all 0.4s;z-index: 20;}
 /*=================================== 首页中心=================================*/
 .index-pszz{
-	/*
 	padding-top:64px;
-	*/
 	margin-bottom:80px;
 }
 .container-tit h2{
@@ -150,7 +148,7 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 
 }
 /*=================================== 精选产品========================================= */
-.index-jxcp{margin-bottom:0.8rem;}
+.index-jxcp{padding-top: 10px;margin-bottom:0.8rem;}
 .jxcplist .item{width:317px;height:4.28rem;margin-right:1.66%;background:#fff;float:left;position: relative;}
 .jxcplist .item:last-child{margin:0;}
 .jxcplist .item-green{background: #00B259;position: relative;}
