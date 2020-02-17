@@ -114,9 +114,6 @@
 					  </div> 
 					  <div id="line" data-v-b0677670="" class=""></div> 
 					  <div class="header-contain" data-v-b0677670="">
-							<div id="logo-icon" data-v-b0677670="" class="">
-								<img src="_nuxt/img/be31463.svg" alt="返回首页" class="logo" data-v-b0677670="" height="40">
-							</div> 
 							<div class="but-list" data-v-b0677670="" style="margin-right: 260px;">
 								<div class="but-style" data-v-b0677670="">
 									<a href="index.html">
@@ -317,16 +314,19 @@
 									<div class="layui-col-md6">
 										  <div class="info-hore info-hore1">
 											  <h2>关于辰麒</h2>
-											  <p class="horep2">辰麒是被全球广泛认可的国际化工业互联网赋能平台公司，不仅是首批通过工业互联网平台可信服务评估认证的企业之一，同时也是首家入选Gartner IIoT 魔力象限的中国工业互联网平台企业。</p>
+											  <p class="horep2">
+											  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辰麒软件是青岛华凌科技有限公司旗下一主打软件品牌，致力于运用工业物联网、蓝牙定位等新技术，打造现代智能化生产制造、智能仓储WMS系统。<br>
+											  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辰麒工业物联网系统包括MES远程监控平台、厂区人员定位系统，二维码产品追溯系统以及基于RFID和手机应用的新一代WMS系统等多个系统平台，全方位地为企业智能制造和智慧仓储提供信息化技术服务。
+											  </p>
 											  <div class="info-tel2 clearfix">
-												  <div class="layui-col-md8 info-tell">
+												  <div class="info-tell">
 													  <p>资讯热线</p>
 													  <h1>
-														  <a href="tel:4008681122" style="color:#fff;">400-868-1122</a>
+														  <span style="color:#fff;">0532-55588351&nbsp;&nbsp;15712773653</span><span style="font-size: 20px;position: absolute;">（微信同号）</span>
 													  </h1>
 													  <p>邮箱地址</p>
 													  <p class="email">
-														  <a href="mailto:partner@rootcloud.com" style="color:#fff;">partner@rootcloud.com</a>
+														  <a href="mailto:qdhualing@126.com" style="color:#fff;">qdhualing@126.com</a>
 													  </p>
 												  </div>
 											  </div>
