@@ -57,13 +57,6 @@
 <link type="text/css" href="original/layui/css/layui.css" rel="stylesheet" />
 <link type="text/css" href="upload/css/base.css?12" rel="stylesheet" />
 <style>
-.info-hore .horep2 {
-    font-size: 14px;
-    color: #FFFFFF;
-    letter-spacing: 0;
-    line-height: 22px;
-    margin-bottom: 43px;
-}
 .info-hore .info-tel2 {
     height: 120px;
 }
@@ -344,7 +337,7 @@
 								<div id="c_portalResGroupWebsite_info-15686156719380864" class="c_portalResGroupWebsite_info-01001" loaded="true" style="overflow: visible;"> 
 									<div class="e_box p_contentBox">
 									  <div class="bqxx">
-										  <p>Copyright © 2018 ROOTCLOUD. All rights reserved. 树根互联技术有限公司 版权所有 <br>  粤ICP备19026860号-1</p>
+										  <p>青岛华凌科技有限公司 qdhualing.com 鲁ICP备15031378号</p>
 									  </div>
 									</div>
 								</div>

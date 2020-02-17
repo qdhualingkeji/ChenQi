@@ -57,13 +57,6 @@
 <link type="text/css" href="original/layui/css/layui.css" rel="stylesheet" />
 <link type="text/css" href="upload/css/base.css?12" rel="stylesheet" />
 <style>
-.info-hore .horep2 {
-    font-size: 14px;
-    color: #FFFFFF;
-    letter-spacing: 0;
-    line-height: 22px;
-    margin-bottom: 43px;
-}
 .info-hore .info-tel2 {
     height: 120px;
 }
@@ -278,7 +271,7 @@
 											  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辰麒工业物联网系统包括MES远程监控平台、厂区人员定位系统，二维码产品追溯系统以及基于RFID和手机应用的新一代WMS系统等多个系统平台，全方位地为企业智能制造和智慧仓储提供信息化技术服务。
 											  </p>
 											  <div class="info-tel2 clearfix">
-												  <div class="layui-col-md8 info-tell">
+												  <div class="info-tell">
 													  <p>资讯热线</p>
 													  <h1>
 														  <span style="color:#fff;">0532-55588351&nbsp;&nbsp;15712773653</span><span style="font-size: 20px;position: absolute;">（微信同号）</span>

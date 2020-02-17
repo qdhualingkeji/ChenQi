@@ -148,7 +148,7 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 
 }
 /*=================================== 精选产品========================================= */
-.index-jxcp{margin-bottom:0.8rem;}
+.index-jxcp{padding-top: 10px;margin-bottom:0.8rem;}
 .jxcplist .item{width:317px;height:4.28rem;margin-right:1.66%;background:#fff;float:left;position: relative;}
 .jxcplist .item:last-child{margin:0;}
 .jxcplist .item-green{background: #00B259;position: relative;}
@@ -559,11 +559,17 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 .client-list li{width:20%;height:103px;float:left;margin:15px 0px;position: relative;}
 .client-list li a{display:block;height:110px;width:100%;display: table-cell;vertical-align: middle;}
 .client-list li img{display: block;vertical-align: middle;
+	width:224px;
+	height:112px;
     max-width: 100%;
     max-height: 100%;
     margin: auto;
     -webkit-transition: all 0.4s;transition: all 0.4s;}
-.client-list li .img2{display: none;}
+.client-list li .img2{
+	width:224px;
+	height:112px;
+	display: none;
+}
 .client-list li:hover .img2{display: block;}
 .client-list li:hover .img1{display:none;}
 @media (min-width:320px) and (max-width:768px){
