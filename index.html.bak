@@ -96,15 +96,7 @@
     font-size: 14px;
     color: #FFFFFF;
     letter-spacing: 0;
-    line-height: 14px;
-    margin-bottom: 11px;
-}
-.info-hore .info-tel2 h1 {
-    font-size: 36px;
-    color: #FFFFFF;
-    letter-spacing: 0;
-    line-height: 36px;
-    margin-bottom: 20px;
+    line-height: 45px;
 }
 .item-tinfo2 {
     padding: 24px 37px 24px 37px !important;
@@ -168,6 +160,11 @@
 					  </div> 
 					  <div id="line" data-v-b0677670="" class=""></div> 
 					  <div class="header-contain" data-v-b0677670="">
+							<div id="logo-icon" data-v-b0677670="" class="">
+								<a href="index.html">
+									<img src="repository/image/logo_fanhuishouye.png" alt="返回首页" style="width:81px;height:60px;" data-v-b0677670="" height="40">
+								</a>
+							</div> 
 							<div class="but-list" data-v-b0677670="" style="margin-right: 260px;">
 								<div class="but-style" data-v-b0677670="">
 									<a href="index.html">
@@ -659,10 +656,7 @@
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <!--
 												  <img src="repository/image/4VrLJMisTU2xBRJmqwDBng.png" class="img1" alt="">
-												  -->
-												  <img src="repository/image/8lt6xTBLTQi6Bl1P672tjQ.png" class="img1" alt="">
 												  <img src="repository/image/8lt6xTBLTQi6Bl1P672tjQ.png" class="img2" alt="">
 												</a>
 											  </li>
@@ -700,14 +694,9 @@
 										  <div class="info-hore info-hore1">
 											  <div class="info-tel2 clearfix">
 												  <div class="info-tell">
-													  <p>资讯热线</p>
-													  <h1>
-														  <span style="color:#fff;">0532-55588351&nbsp;&nbsp;15712773653</span><span style="font-size: 20px;position: absolute;">（微信同号）</span>
-													  </h1>
-													  <p>邮箱地址</p>
-													  <p class="email">
-														  <a href="mailto:qdhualing@126.com" style="color:#fff;">qdhualing@126.com</a>
-													  </p>
+													  <p>资讯热线：0532-55588351&nbsp;&nbsp;15712773653（微信同号）</p>
+													  <p>邮箱地址：qdhualing@126.com</p>
+													  <p>自动化控制系统集成网址：www.qdhualing.com</p>
 												  </div>
 											  </div>
 										  </div>

@@ -130,13 +130,15 @@
 	  .swiper-slide img{
 		  width:100%;
 	  }
-	.info-hore .horep2 {
-		font-size: 14px;
-		color: #FFFFFF;
-		letter-spacing: 0;
-		line-height: 22px;
-		margin-bottom: 43px;
-	}
+	  .info-hore .info-tel2 {
+          height: 120px;
+	  }
+	  .info-hore .info-tel2 p {
+		  font-size: 14px;
+		  color: #FFFFFF;
+		  letter-spacing: 0;
+		  line-height: 45px;
+	  }
     </style>
 </head>
 <body data-pageid="e7aa6fc9-ec60-4332-8eea-0849ea2df7ad" data-layout="flow" data-tmplid="0f417d2c-c8fc-4cc1-adcc-0bf4400a5e4a">
@@ -409,6 +411,11 @@
 					  </div> 
 					  <div id="line" data-v-b0677670="" class=""></div> 
 					  <div class="header-contain" data-v-b0677670="">
+							<div id="logo-icon" data-v-b0677670="" class="">
+								<a href="index.html">
+									<img src="repository/image/logo_fanhuishouye.jpg" alt="返回首页" style="width:100px;height:60px;" data-v-b0677670="" height="40">
+								</a>
+							</div> 
 							<div class="but-list" data-v-b0677670="" style="margin-right: 260px;">
 								<div class="but-style" data-v-b0677670="">
 									<a href="index.html">
@@ -664,10 +671,13 @@
 						<div class="map-detail">
 						  <div class="content">
 							<p>
-							辰麒紧跟全国各地推进制造业转型升级、智能制造园区建设的步伐，展开全国布局，目前已经落地广州，并落户北京、上海、长沙、苏州、西安，不仅发力于中国先进制造业的集中承载地、更辐射京津冀、长三角地区和华中地区，带动全国范围内的工业互联网应用，助力中国制造业实现换道超车。
+							青岛华凌科技有限公司是一家集软件产品研发、DCS、PLC控制系统、MES制造执行系统设计集成，电气仪表等自动化设备代理、销售为一体的高科技公司。
 							</p>
 							<p>
-							截至目前，树根互联已服务德国、肯尼亚、印度、南非、印尼、墨西哥等海外国家的当地企业，持续开拓全球服务能力，支持45个国家和地区的设备接入。
+							辰麒软件是青岛华凌科技有限公司旗下一主打软件品牌，致力于运用工业物联网、蓝牙定位等新技术，打造新一代智能化生产制造、智能仓储WMS系统。
+							</p>
+							<p>
+							辰麒工业物联网软件包括MES远程监控平台、厂区人员定位系统，二维码产品追溯系统以及基于RFID和手机应用的新一代WMS系统等多个应用软件平台，为实现企业智能制造和智慧仓储提供全方位信息化技术服务。
 							</p>
 						  </div>
 						</div>
@@ -765,21 +775,11 @@
 							  <div class="footer-info clearfix">
 									<div class="layui-col-md6">
 										  <div class="info-hore info-hore1">
-											  <h2>关于辰麒</h2>
-											  <p class="horep2">
-											  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辰麒软件是青岛华凌科技有限公司旗下一主打软件品牌，致力于运用工业物联网、蓝牙定位等新技术，打造现代智能化生产制造、智能仓储WMS系统。<br>
-											  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;辰麒工业物联网系统包括MES远程监控平台、厂区人员定位系统，二维码产品追溯系统以及基于RFID和手机应用的新一代WMS系统等多个系统平台，全方位地为企业智能制造和智慧仓储提供信息化技术服务。
-											  </p>
-											  <div class="info-tel clearfix">
-												  <div class="layui-col-md8 info-tell">
-													  <p>资讯热线</p>
-													  <h1>
-														  <span style="color:#fff;">0532-55588351&nbsp;&nbsp;15712773653</span><span style="font-size: 20px;position: absolute;">（微信同号）</span>
-													  </h1>
-													  <p>邮箱地址</p>
-													  <p class="email">
-														  <a href="mailto:qdhualing@126.com" style="color:#fff;">qdhualing@126.com</a>
-													  </p>
+											  <div class="info-tel2 clearfix">
+												  <div class="info-tell">
+													  <p>资讯热线：0532-55588351&nbsp;&nbsp;15712773653（微信同号）</p>
+													  <p>邮箱地址：qdhualing@126.com</p>
+													  <p>自动化控制系统集成网址：www.qdhualing.com</p>
 												  </div>
 											  </div>
 										  </div>
