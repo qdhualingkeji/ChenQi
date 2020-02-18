@@ -8,36 +8,6 @@
   <script src="https://hm.baidu.com/hm.js?9922b78c7ff5ed23c61a5daf601f7cfb" data-n-head="true"></script>
   <script src="https://assets.giocdn.com/2.1/gio.js" data-n-head="true"></script>
   <script id="xiaonengjs" src="visitor/js/xiaoneng.js?siteid=kf_10024" data-n-head="true"></script>
-  <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
-  <script type="text/javascript">
-  var swiperPageIndex=0;
-  $(function(){
-	  setInterval("changeSwiperPage()","5000","1000");
-  });
-
-  function changeSwiperPage(flag){
-	if(flag=="prev"){
-		swiperPageIndex--;
-	}
-	else if(flag=="next"){
-		swiperPageIndex++;
-	}
-	else{
-		swiperPageIndex++;
-	}
-
-	if(swiperPageIndex>=3)
-		swiperPageIndex=0;
-	else if(swiperPageIndex<0)
-		swiperPageIndex=2;
-	console.log(swiperPageIndex);
-	$("#swiper-wrapper_div #swiper-slide_div").css("display","none");
-	$("#swiper-wrapper_div #swiper-slide_div").eq(swiperPageIndex).css("display","block");
-
-	$("#swiper-pagination_div #bullet_span").attr("class","swiper-pagination-bullet");
-	$("#swiper-pagination_div #bullet_span").eq(swiperPageIndex).attr("class","swiper-pagination-bullet swiper-pagination-bullet-active");
-  }
-  </script>
   <link href="_nuxt/ec74520de93fd2abfa2e.js" rel="preload" as="script">
   <link href="_nuxt/25721acd0e0808a7be01.js" rel="preload" as="script">
   <link href="_nuxt/ba009e322d6395fd2da6.css" rel="preload" as="style">
@@ -69,10 +39,6 @@
 .swiper-slide img{
 	width:100%;
 }
-.space_div{
-	width:100%;
-	height:30px;
-}
 </style>
 </head>
 <body style="height: 100%;">
@@ -101,7 +67,7 @@
 					  <div class="header-contain" data-v-b0677670="">
 							<div id="logo-icon" data-v-b0677670="" class="">
 								<a href="index.html">
-									<img src="repository/image/logo_fanhuishouye.jpg" alt="返回首页" style="width:100px;height:60px;" data-v-b0677670="" height="40">
+									<img src="repository/image/logo_fanhuishouye.png" alt="返回首页" style="width:81px;height:60px;" data-v-b0677670="">
 								</a>
 							</div> 
 							<div class="but-list" data-v-b0677670="" style="margin-right: 260px;">
@@ -135,34 +101,22 @@
 			  <div id="cosmo_root">
 				  <div class="content" node="[object Object]">
 					  <div class="gateway_item">
-						  
-							<div data-v-2c4d4377="" class="swiper-container swiper-container-fade swiper-container-initialized swiper-container-horizontal">
-								  <div class="swiper-wrapper" id="swiper-wrapper_div" data-v-2c4d4377="" style="transition-duration: 1000ms;">
-									  
-									  <div class="swiper-slide" id="swiper-slide_div" data-v-2c4d4377="" data-swiper-slide-index="0">
-										  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150001.jpg">
-									  </div>
-									  <div class="swiper-slide" id="swiper-slide_div" style="display:none;" data-v-2c4d4377="" data-swiper-slide-index="0">
-										  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150002.jpg"> 
-									  </div>
-									  <div class="swiper-slide" id="swiper-slide_div" style="display:none;" data-v-2c4d4377="" data-swiper-slide-index="0">
-										  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150003.jpg"> 
-									  </div>
-								  </div> 
-								  <div class="swiper-pagination swiper-pagination-bullets swiper-pagination-white" id="swiper-pagination_div" data-v-2c4d4377="">
-									  <span class="swiper-pagination-bullet swiper-pagination-bullet-active" id="bullet_span" tabindex="0" role="button" aria-label="Go to slide 1"></span>
-									  <span class="swiper-pagination-bullet" id="bullet_span" tabindex="0" role="button" aria-label="Go to slide 2"></span>
-									  <span class="swiper-pagination-bullet" id="bullet_span" tabindex="0" role="button" aria-label="Go to slide 3"></span>
-								  </div> 
-								  <div class="swiper-button-next swiper-button-white" data-v-2c4d4377="" tabindex="0" role="button" aria-label="Next slide" onclick="changeSwiperPage('next')"></div> 
-								  <div class="swiper-button-prev swiper-button-white" data-v-2c4d4377="" tabindex="0" role="button" aria-label="Previous slide" onclick="changeSwiperPage('prev')"></div>
-								  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-							  </div>
-
-
-
-
+						  <img class="swiper-lazy swiper-lazy-loaded" data-v-2c4d4377="" src="_nuxt/img/202002150002.jpg"> 
 					  </div>
+					  <div class="gateway_item">
+						  <div class="cosmo_title cuba_components" data-v-38a36330="">
+							  <div class="container" data-v-38a36330="">
+								  <div class="wordWrap wordWrap_m" style="text-align: left; height: 72px; font-size: 24px; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px;" data-v-38a36330="">
+									  <div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">辰麒物联网人员定位系统优势</div>
+								  </div> 
+								  <div class="img-div" data-v-38a36330="">
+									  <img data-v-38a36330="" srcset="https://res.cosmoplat.com/cosmoplat/image/5abde7e0-b4f7-4d43-81b0-1e38d6705307.jpg 1023w, file/20190728/1_85a206db-dc95-4ced-badf-4f8e9e8aaa01.png" class="cosmo_title_img cosmo_title_img_m" data-src="file/20190728/1_85a206db-dc95-4ced-badf-4f8e9e8aaa01.png" src="file/20190728/1_85a206db-dc95-4ced-badf-4f8e9e8aaa01.png" lazy="loaded">
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+
+
 					  <!--
 					  <div class="gateway_item">
 						  <div class="cosmo_title cuba_components" data-v-38a36330="">
@@ -283,12 +237,23 @@
 							  </div>
 						  </div>
 					  </div>
+
+					  <div class="gateway_item">
+						  <div class="cosmo_title cuba_components" data-v-38a36330="">
+							  <div class="container" data-v-38a36330="">
+								  <div class="wordWrap wordWrap_m" style="height: 72px; text-align: left; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px; font-size: 24px;" data-v-38a36330="">
+									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">实施案例</div>
+								  </div> 
+								  <div class="img-div" data-v-38a36330="">
+									<img class="cosmo_title_img cosmo_title_img_m" src="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png" lazy="loaded" data-src="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png" data-v-38a36330="" srcset="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png 1023w, file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png">
+								  </div>
+							  </div>
+						  </div>
+					  </div>
 				  </div>
 			  </div>
 		  </div> 
 		  <!--zpContainer_end-->
-
-		  <div class="space_div"></div>
 
 		  <div class="footer" data-v-fb83ed8e="">
 			  

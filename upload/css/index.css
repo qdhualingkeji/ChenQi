@@ -34,7 +34,7 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 .prev1{top:0.6rem;right:0px;left:auto;margin:0;height:0.48rem;width:0.48rem;background:rgba(255,255,255,0.2);-webkit-transition:  all 0.4s;transition:  all 0.4s;z-index: 20;}
 /*=================================== 首页中心=================================*/
 .index-pszz{
-	padding-top:64px;
+	padding-top:34px;
 	margin-bottom:80px;
 }
 .container-tit h2{
