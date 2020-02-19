@@ -97,7 +97,7 @@
 					  <div class="header-contain" data-v-b0677670="">
 							<div id="logo-icon" data-v-b0677670="" class="">
 								<a href="index.html">
-									<img src="repository/image/logo_fanhuishouye.jpg" alt="返回首页" style="width:100px;height:60px;" data-v-b0677670="" height="40">
+									<img src="repository/image/logo_fanhuishouye.png" alt="返回首页" style="width:196px;height:60px;" data-v-b0677670="">
 								</a>
 							</div> 
 							<div class="but-list" data-v-b0677670="" style="margin-right: 260px;">
@@ -154,9 +154,45 @@
 								  <div class="swiper-button-prev swiper-button-white" data-v-2c4d4377="" tabindex="0" role="button" aria-label="Previous slide" onclick="changeSwiperPage('prev')"></div>
 								  <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
 							  </div>
-
-
 					  </div>
+
+					  <div class="gateway_item">
+						  <div class="cosmo_title cuba_components" data-v-38a36330="">
+							  <div class="container" data-v-38a36330="">
+								  <div class="wordWrap wordWrap_m" style="height: 72px; text-align: left; color: rgb(0, 0, 0); line-height: 24px; padding-top: 48px; font-size: 24px;" data-v-38a36330="">
+									  <div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">服务范围</div>
+								  </div> 
+								  <div style="height: 25px;text-align:center;font-size:16px;color:#303030;"></div>
+								  <div class="img-div" data-v-38a36330="" style="border:#eee solid 1px;">
+									  <div style="width:272px;height:266px;">
+										  <img src="site/site01624/upfile/201907/2019072331204927.jpg" alt="智能工厂规划" style="width: 270px; height: 200px;">
+										  <div style="width:272px;height:66px;line-height:66px;text-align:center;color: #000;font-size:18px;font-weight: normal;">
+											  智能工厂规划
+										  </div>
+									  </div>
+									  <div style="width:272px;height:266px;margin-top:-266px;margin-left:309px;">
+										  <img src="site/site01624/upfile/201907/2019072331232927.jpg" alt="智能制造软件" style="width: 270px; height: 200px;">
+										  <div style="width:100%;height:66px;line-height:66px;text-align:center;color: #000;font-size:18px;font-weight: normal;">
+											  智能制造软件
+										  </div>
+									  </div>
+									  <div style="width:272px;height:266px;margin-top:-266px;margin-left:618px;">
+										  <img src="site/site01624/upfile/201905/2019053137403041.jpg" alt="智能制造硬件" style="width: 270px; height: 200px;">
+										  <div style="width:100%;height:66px;line-height:66px;text-align:center;color: #000;font-size:18px;font-weight: normal;">
+											  智能制造硬件
+										  </div>
+									  </div>
+									  <div style="width:272px;height:266px;margin-top:-266px;margin-left:927px;">
+										  <img src="site/site01624/upfile/201907/2019072331311099.jpg" alt="系统集成" style="width: 270px; height: 200px;">
+										  <div style="width:100%;height:66px;line-height:66px;text-align:center;color: #000;font-size:18px;font-weight: normal;">
+											  系统集成
+										  </div>
+									  </div>
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+
 					  <div class="gateway_item">
 						  <div class="cosmo_title cuba_components" data-v-38a36330="">
 							  <div class="container" data-v-38a36330="">
