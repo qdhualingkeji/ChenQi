@@ -457,12 +457,13 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 .map-detail{width:100%;min-height:164px;background: #F9F9F9;margin-top:40px;border-bottom:3px solid #00B259;}
 .map-detail .content{padding:40px 40px 0px;}
 .map-detail .content p{
-    
     font-size: 14px;
     color: #21252E;
     letter-spacing: 0;
     line-height: 24px;
+	/*
     margin-bottom:16px;
+	*/
 }
 @media (min-width:320px) and (max-width:768px){
     .map-main{margin-bottom:0.4rem;overflow: auto;}

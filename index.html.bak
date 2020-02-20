@@ -93,7 +93,7 @@
     height: 120px;
 }
 .info-hore .info-tel2 p {
-    font-size: 14px;
+    font-size: 15px;
     color: #FFFFFF;
     letter-spacing: 0;
     line-height: 45px;
@@ -162,7 +162,7 @@
 					  <div class="header-contain" data-v-b0677670="">
 							<div id="logo-icon" data-v-b0677670="" class="">
 								<a href="index.html">
-									<img src="repository/image/logo_fanhuishouye.png" alt="返回首页" style="width:228px;height:60px;" data-v-b0677670="">
+									<img src="repository/image/logo_fanhuishouye.png" alt="返回首页" style="width:196px;height:60px;" data-v-b0677670="">
 								</a>
 							</div> 
 							<div class="but-list" data-v-b0677670="" style="margin-right: 260px;">
@@ -593,70 +593,70 @@
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/IVTJYC15S_miYffXdFwHBA.png" class="img1" alt="">
-												  <img src="repository/image/V8sO46IrR0u9Ab7zKya2dA.png" class="img2" alt="">
+												  <img src="repository/image/IVTJYC15S_miYffXdFwHBA.png" class="img1" alt="" style="width:224px;height:42px;">
+												  <img src="repository/image/V8sO46IrR0u9Ab7zKya2dA.png" class="img2" alt="" style="width:224px;height:42px;">
 												</a>
 											  </li>
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/OEAY-g19T4aXVfjcoRpVUw.png" class="img1" alt="">
-												  <img src="repository/image/OylI7ylqRCeSohg2uB6n6w.png" class="img2" alt="">
+												  <img src="repository/image/OEAY-g19T4aXVfjcoRpVUw.png" class="img1" alt="" style="width:224px;height:36px;">
+												  <img src="repository/image/OylI7ylqRCeSohg2uB6n6w.png" class="img2" alt="" style="width:224px;height:36px;">
 												</a>
 											  </li>
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/OP_bG_UqQVOX656W-W2usQ.png" class="img1" alt="">
-												  <img src="repository/image/2yc9iRliS06gcVWxF8VE6Q.png" class="img2" alt="">
+												  <img src="repository/image/OP_bG_UqQVOX656W-W2usQ.png" class="img1" alt="" style="width:224px;height:30px;">
+												  <img src="repository/image/2yc9iRliS06gcVWxF8VE6Q.png" class="img2" alt="" style="width:224px;height:30px;">
 												</a>
 											  </li>
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/FKMs6dSxT5uuM37-7YezMw.png" class="img1" alt="">
-												  <img src="repository/image/PJDKykTbQkyXB9III0_ieA.png" class="img2" alt="">
+												  <img src="repository/image/FKMs6dSxT5uuM37-7YezMw.png" class="img1" alt="" style="width:224px;height:26px;">
+												  <img src="repository/image/PJDKykTbQkyXB9III0_ieA.png" class="img2" alt="" style="width:224px;height:26px;">
 												</a>
 											  </li>
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/o8cYLHcfSSCP1dopxIC-8g.png" class="img1" alt="">
-												  <img src="repository/image/2y_b-H4TT8GntPvP2NyDSw.png" class="img2" alt="">
+												  <img src="repository/image/o8cYLHcfSSCP1dopxIC-8g.png" class="img1" alt="" style="width:224px;height:43px;">
+												  <img src="repository/image/2y_b-H4TT8GntPvP2NyDSw.png" class="img2" alt="" style="width:224px;height:43px;">
 												</a>
 											  </li>
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/b1ae4b03-1d4d-4258-88fd-f2594ace25ed.png" class="img1" alt="">
-												  <img src="repository/image/92c4e81f-f013-4f1f-9c2a-82a9e55ffb3c.png" class="img2" alt="">
+												  <img src="repository/image/b1ae4b03-1d4d-4258-88fd-f2594ace25ed.png" class="img1" alt="" style="width:224px;height:58px;">
+												  <img src="repository/image/92c4e81f-f013-4f1f-9c2a-82a9e55ffb3c.png" class="img2" alt="" style="width:224px;height:58px;">
 												</a>
 											  </li>
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/zS_YRPEER4eVSoqJYmxE_A.png" class="img1" alt="">
-												  <img src="repository/image/u7xv9kwXS5-HRoOC4_56NA.png" class="img2" alt="">
+												  <img src="repository/image/zS_YRPEER4eVSoqJYmxE_A.png" class="img1" alt="" style="width:224px;height:56px;">
+												  <img src="repository/image/u7xv9kwXS5-HRoOC4_56NA.png" class="img2" alt="" style="width:224px;height:56px;">
 												</a>
 											  </li>
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/3BcLkB7BTUmHuD1fWIY3Ug.png" class="img1" alt="">
-												  <img src="repository/image/gpWPsehgQmarb9Gtn_j07g.png" class="img2" alt="">
+												  <img src="repository/image/3BcLkB7BTUmHuD1fWIY3Ug.png" class="img1" alt="" style="width:224px;height:59px;">
+												  <img src="repository/image/gpWPsehgQmarb9Gtn_j07g.png" class="img2" alt="" style="width:224px;height:59px;">
 												</a>
 											  </li>
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/fLoo-f5cQwydvhq6U7XjNw.png" class="img1" alt="">
-												  <img src="repository/image/cjyMvvCIQvePbgd3n_BrNw.png" class="img2" alt="">
+												  <img src="repository/image/fLoo-f5cQwydvhq6U7XjNw.png" class="img1" alt="" style="width:224px;height:39px;">
+												  <img src="repository/image/cjyMvvCIQvePbgd3n_BrNw.png" class="img2" alt="" style="width:224px;height:39px;">
 												</a>
 											  </li>
 											  <li class="fl">
 												<em style="display:none">合作客户</em>
 												<a href="javascript:;">
-												  <img src="repository/image/4VrLJMisTU2xBRJmqwDBng.png" class="img1" alt="">
+												  <img src="repository/image/4VrLJMisTU2xBRJmqwDBng.png" class="img1" alt="" style="width:224px;height:34px;">
 												  <img src="repository/image/8lt6xTBLTQi6Bl1P672tjQ.png" class="img2" alt="">
 												</a>
 											  </li>

@@ -684,7 +684,7 @@ a.btn-more:hover::before {
 }
 @media (min-width:1920px){
     .layui-container {
-        width:1440px !important;
+        width:1340px !important;
     }
 }
 

@@ -311,7 +311,7 @@ img{border:0px;  outline-width:0px;  vertical-align:top;}
 .hover-box .hover-item:hover .item1 span{color:#00B259;}
 /* 底部 */
 .footer{width:100%;min-height:auto;background: #1F232A;}
-.footer-info{padding-top:56px;height:auto;margin-bottom:40px;}
+.footer-info{padding-top:25px;height:auto;margin-bottom:40px;}
 .info-hore h2{
     
     font-size: 20px;

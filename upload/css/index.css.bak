@@ -445,7 +445,7 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 .map-main .m_map .mp9{left:72.2%;top:39.4%;}
 .map-main .m_map .mp10{left:77.4%;top:39%;}
 .map-main .m_map .mp11{left:71.2%;top:35.2%;}
-.map-main .m_map .mp12{left:74.3%;top:35.7%;}
+.map-main .m_map .mp12{left:76.9%;top:35.7%;}
 
 .map-main .m_map .mp8 .mito .map-statu{float:right;margin-right:24px;}
 .map-main .m_map .mp8 .mito a::before{left:auto;right:-24px;}
@@ -457,7 +457,6 @@ a.btn-more{text-align: center;display: block;width:160px;height:54px;background:
 .map-detail{width:100%;min-height:164px;background: #F9F9F9;margin-top:40px;border-bottom:3px solid #00B259;}
 .map-detail .content{padding:40px 40px 0px;}
 .map-detail .content p{
-    
     font-size: 14px;
     color: #21252E;
     letter-spacing: 0;
