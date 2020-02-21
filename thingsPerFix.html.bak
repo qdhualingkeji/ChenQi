@@ -8,6 +8,15 @@
   <script src="https://hm.baidu.com/hm.js?9922b78c7ff5ed23c61a5daf601f7cfb" data-n-head="true"></script>
   <script src="https://assets.giocdn.com/2.1/gio.js" data-n-head="true"></script>
   <script id="xiaonengjs" src="visitor/js/xiaoneng.js?siteid=kf_10024" data-n-head="true"></script>
+  <script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?2a29a77dde7793c423fcc1edba0bf0a9";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+  </script>
   <link href="_nuxt/ec74520de93fd2abfa2e.js" rel="preload" as="script">
   <link href="_nuxt/25721acd0e0808a7be01.js" rel="preload" as="script">
   <link href="_nuxt/ba009e322d6395fd2da6.css" rel="preload" as="style">
@@ -243,7 +252,7 @@
 									<div class="wordWrap_hq wordWrap_hq_m" data-v-38a36330="">实施案例</div>
 								  </div> 
 								  <div class="img-div" data-v-38a36330="">
-									<img class="cosmo_title_img cosmo_title_img_m" src="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png" lazy="loaded" data-src="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png" data-v-38a36330="" srcset="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png 1023w, file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84628.png">
+									<img class="cosmo_title_img cosmo_title_img_m" src="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84629.png" lazy="loaded" data-src="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84629.png" data-v-38a36330="" srcset="file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84629.png 1023w, file/20190728/3_4a3e72af-308f-42fc-b9e1-dc5bb9f84629.png">
 								  </div>
 							  </div>
 						  </div>

@@ -37,6 +37,17 @@
 	$("#swiper-pagination_div #bullet_span").attr("class","swiper-pagination-bullet");
 	$("#swiper-pagination_div #bullet_span").eq(swiperPageIndex).attr("class","swiper-pagination-bullet swiper-pagination-bullet-active");
   }
+
+    var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  if(location.href.indexOf("www.iot-mes.com")!=-1)
+		hm.src = "https://hm.baidu.com/hm.js?2a29a77dde7793c423fcc1edba0bf0a9";
+	  else if(location.href.indexOf("mes.qdhualing.com")!=-1)
+		hm.src = "https://hm.baidu.com/hm.js?94af0f3c813d11def5d929a547182685";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
   </script>
   <link href="_nuxt/ec74520de93fd2abfa2e.js" rel="preload" as="script">
   <link href="_nuxt/25721acd0e0808a7be01.js" rel="preload" as="script">

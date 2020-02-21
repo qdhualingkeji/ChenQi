@@ -116,6 +116,14 @@
 	$("#swiper-pagination_div #bullet_span").attr("class","swiper-pagination-bullet");
 	$("#swiper-pagination_div #bullet_span").eq(swiperPageIndex).attr("class","swiper-pagination-bullet swiper-pagination-bullet-active");
   }
+
+    var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?2a29a77dde7793c423fcc1edba0bf0a9";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
   </script>
     <style>
       .breadcrumb1 div.e_breadcrumb .minor_info{color:#505363!important;}
@@ -534,7 +542,6 @@
 					<div class="stylebox_content">
 						<div>
 							<div class="layui-container cMap">
-
 								<div class="index-pszz">
 									<div class="container-tit">
 										<h2>世界领先的工业互联网平台，无论您在何处，我们都能提供服务</h2>
