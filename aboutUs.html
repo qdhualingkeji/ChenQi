@@ -12,6 +12,18 @@
 <link rel="stylesheet" href="_nuxt/2b084d168d2ff1a9f4bf.css">
 <meta http-equiv="Cache-Control" content="no-transform" />
 <script type="text/javascript">
+	var system ={};  
+	var p = navigator.platform;       
+	system.win = p.indexOf("Win") == 0;  
+	system.mac = p.indexOf("Mac") == 0;  
+	system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);     
+	if(system.win||system.mac||system.xll){//如果是电脑访问，就默认本页面了，不执行任何操作了
+	   
+	}
+	else{//如果是手机,跳转到
+	   window.location.href="ChenQiPh/aboutUs.html";
+	}
+
     window.siteIsPc=true;
     window.foreignList= [];
     window.tenant = {"resourcesPath":"","groupId":"GCGROUP20190904093558643","productInstanceId":226248,"language":"zh_CN","hotelDomain":"","oganize":"[\"1\"]","tennatCode":"100009_1909045011","publishPool":"","youyiProductName":"","mycat":"84","ningkerCusdomain":"","cusId":"","id":158676,"rem":"888444","hotelCusdomain":"","unittype":"100009","pool":"pool401","domains":[],"targetRem":"","makeDomain":"1909045011.pool401-bestsite.make.yun300.cn","mobileDomain":"","ceYun":true,"targetPool":"","mobileProductDomain":"","mobileStatus":8,"domain":"www.rootcloud.com","name":"","status":6,"productAttrId":0,"ningkerDomain":"DOMESTIC_TRADE","domainInfo":null,"pcPublishTime":{"date":26,"hours":20,"seconds":41,"month":10,"timezoneOffset":-480,"year":119,"minutes":2,"time":1574769761000,"day":2},"templateCode":"core_gcbest_site","tenantCode":"100009_1909045011","accessPool":"","bossProductInstance":"","foreign":false,"instanceList":[],"mobilePublishTime":null,"verify":"1f45341b61324bc91bb9077e70e4a40d","man":1,"attr":null,"productDomain":"1909045011.pool401-bestsite.yun300.cn","cdnFlag":"0","domainStatus":-1,"updateTime":{"date":26,"hours":19,"seconds":16,"month":10,"timezoneOffset":-480,"year":119,"minutes":53,"time":1574769196000,"day":2},"productInstanceCode":"NEWGC20190904093648","rusRoute":"","productInstance":null,"mobileMakeDomain":"","createTime":{"date":4,"hours":9,"seconds":39,"month":8,"timezoneOffset":-480,"year":119,"minutes":28,"time":1567560519000,"day":3},"appList":[],"tenantRelations":[]};

@@ -11,6 +11,18 @@
   <script src="https://assets.giocdn.com/2.1/gio.js" data-n-head="true"></script>
   <script id="xiaonengjs" src="visitor/js/xiaoneng.js?siteid=kf_10024" data-n-head="true"></script>
   <script>
+	var system ={};  
+	var p = navigator.platform;       
+	system.win = p.indexOf("Win") == 0;  
+	system.mac = p.indexOf("Mac") == 0;  
+	system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);     
+	if(system.win||system.mac||system.xll){//如果是电脑访问，就默认本页面了，不执行任何操作了
+	   
+	}
+	else{//如果是手机,跳转到
+	   window.location.href="ChenQiPh/thingsPerFix.html";
+	}
+
 	var _hmt = _hmt || [];
 	(function() {
 	  var hm = document.createElement("script");
