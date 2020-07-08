@@ -11,7 +11,6 @@
   <script src="https://assets.giocdn.com/2.1/gio.js" data-n-head="true"></script>
   <script id="xiaonengjs" src="visitor/js/xiaoneng.js?siteid=kf_10024" data-n-head="true"></script>
   <script>
-  alert(1)
 	var system ={};  
 	var p = navigator.platform;       
 	system.win = p.indexOf("Win") == 0;  
@@ -167,7 +166,7 @@
 									  ● 定位信标：&nbsp;&nbsp;1.IP68防水抗压防腐，续航10年，部署无需拉电施工&nbsp;&nbsp;2.本质安全防爆认证，可用于最危险的0区环境 ●
 								  </div>
 								  <div class="img-div" data-v-38a36330="" style="border:#eee solid 1px;">
-									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140005.jpg" lazy="loaded" data-src="repository/image/202001140005.jpg" data-v-38a36330="" srcset="repository/image/202001140005.jpg 1023w, repository/image/202001140005.jpg" style="width:800px;height:542px;">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140005.jpg" lazy="loaded" data-src="repository/image/202001140005.jpg" data-v-38a36330="" srcset="repository/image/202001140005.jpg 1023w, repository/image/202001140005.jpg" style="width:800px;height:448px;">
 								  </div>
 							  </div>
 						  </div>
@@ -197,7 +196,7 @@
 									  ● 人员位置实时追踪&nbsp;&nbsp;人员历史轨迹分析&nbsp;&nbsp;监控视频联动 ●
 								  </div>
 								  <div class="img-div" data-v-38a36330="" style="border:#eee solid 1px;">
-									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140006.jpg" lazy="loaded" data-src="repository/image/202001140006.jpg" data-v-38a36330="" srcset="repository/image/202001140006.jpg 1023w, repository/image/202001140006.jpg" style="width:800px;height:495px;">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140006.jpg" lazy="loaded" data-src="repository/image/202001140006.jpg" data-v-38a36330="" srcset="repository/image/202001140006.jpg 1023w, repository/image/202001140006.jpg" style="width:800px;height:490px;">
 								  </div>
 							  </div>
 						  </div>
@@ -212,7 +211,7 @@
 									  ● 访客位置实时追踪&nbsp;&nbsp;访客越权访问立即预警&nbsp;&nbsp;访客智能登记与身份审核 ●
 								  </div>
 								  <div class="img-div" data-v-38a36330="" style="border:#eee solid 1px;">
-									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140002.jpg" lazy="loaded" data-src="repository/image/202001140002.jpg" data-v-38a36330="" srcset="repository/image/202001140002.jpg 1023w, repository/image/202001140002.jpg" style="width:800px;height:628px;">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140002.jpg" lazy="loaded" data-src="repository/image/202001140002.jpg" data-v-38a36330="" srcset="repository/image/202001140002.jpg 1023w, repository/image/202001140002.jpg" style="width:800px;height:631px;">
 								  </div>
 							  </div>
 						  </div>
@@ -227,7 +226,7 @@
 									  ● 巡更任务执行管理&nbsp;&nbsp;巡更过程高效监管&nbsp;&nbsp;巡更工作智能考核 ●
 								  </div>
 								  <div class="img-div" data-v-38a36330="" style="border:#eee solid 1px;">
-									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140007.jpg" lazy="loaded" data-src="repository/image/202001140007.jpg" data-v-38a36330="" srcset="repository/image/202001140007.jpg 1023w, repository/image/202001140007.jpg" style="width:800px;height:564px;">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140007.jpg" lazy="loaded" data-src="repository/image/202001140007.jpg" data-v-38a36330="" srcset="repository/image/202001140007.jpg 1023w, repository/image/202001140007.jpg" style="width:800px;height:563px;">
 								  </div>
 							  </div>
 						  </div>
@@ -242,7 +241,7 @@
 									  ● 承包商工时统计&nbsp;&nbsp;承包商区域访问权限管理&nbsp;&nbsp;承包商工作状态监管 ●
 								  </div>
 								  <div class="img-div" data-v-38a36330="" style="border:#eee solid 1px;">
-									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140008.jpg" lazy="loaded" data-src="repository/image/202001140008.jpg" data-v-38a36330="" srcset="repository/image/202001140008.jpg 1023w, repository/image/202001140008.jpg" style="width:800px;height:506px;">
+									<img class="cosmo_title_img cosmo_title_img_m" src="repository/image/202001140008.jpg" lazy="loaded" data-src="repository/image/202001140008.jpg" data-v-38a36330="" srcset="repository/image/202001140008.jpg 1023w, repository/image/202001140008.jpg" style="width:800px;height:458px;">
 								  </div>
 							  </div>
 						  </div>
