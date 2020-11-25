@@ -1,0 +1,549 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus®">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<link href="css/ftmpl_impt_0f417d2c-c8fc-4cc1-adcc-0bf4400a5e4a.css?v=1574769761000" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="_nuxt/ba009e322d6395fd2da6.css">
+<link rel="stylesheet" href="_nuxt/2b084d168d2ff1a9f4bf.css">
+<link type="text/css" href="original/layui/css/layui.css" rel="stylesheet" />
+<link type="text/css" href="upload/css/base.css?12" rel="stylesheet" />
+<script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+<script type="text/javascript">
+$(function(){
+		
+});
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  if(location.href.indexOf("www.iot-mes.com")!=-1)
+	hm.src = "https://hm.baidu.com/hm.js?2a29a77dde7793c423fcc1edba0bf0a9";
+  else if(location.href.indexOf("mes.qdhualing.com")!=-1)
+	hm.src = "https://hm.baidu.com/hm.js?94af0f3c813d11def5d929a547182685";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+function changeImgSrc(tag,flag){
+	var src=""
+	if(flag==1){
+		switch(tag){
+		case "rg":
+			src="repository/image/202011240004.jpg";
+		break;
+		case "siji":
+			src="repository/image/202011240006.jpg";
+		break;
+		case "jiliang":
+			src="repository/image/202011240008.jpg";
+		break;
+		case "shuju":
+			src="repository/image/202011240010.jpg";
+		break;
+		case "djyhgl":
+			src="repository/image/202011240013.jpg";
+		break;
+		case "xskspt":
+			src="repository/image/202011240015.jpg";
+		break;
+		case "dzywlx":
+			src="repository/image/202011240017.jpg";
+		break;
+		case "ydccgk":
+			src="repository/image/202011240019.jpg";
+		break;
+		case "zzyf":
+			src="repository/image/202011240021.jpg";
+		break;
+		case "dzfzbcs":
+			src="repository/image/202011240023.jpg";
+		break;
+		case "dzxxcjfs":
+			src="repository/image/202011240025.jpg";
+		break;
+		case "rjjhyh":
+			src="repository/image/202011240027.jpg";
+		break;
+		case "sjaqybm":
+			src="repository/image/202011240029.jpg";
+		break;
+		case "jcdagl":
+			src="repository/image/202011240031.jpg";
+		break;
+		case "xtmkh":
+			src="repository/image/202011240033.jpg";
+		break;
+		case "sjjhnl":
+			src="repository/image/202011240035.jpg";
+		break;
+		}
+	}
+	else{
+		switch(tag){
+		case "rg":
+			src="repository/image/202011240003.jpg";
+		break;
+		case "siji":
+			src="repository/image/202011240005.jpg";
+		break;
+		case "jiliang":
+			src="repository/image/202011240007.jpg";
+		break;
+		case "shuju":
+			src="repository/image/202011240009.jpg";
+		break;
+		case "djyhgl":
+			src="repository/image/202011240012.jpg";
+		break;
+		case "xskspt":
+			src="repository/image/202011240014.jpg";
+		break;
+		case "dzywlx":
+			src="repository/image/202011240016.jpg";
+		break;
+		case "ydccgk":
+			src="repository/image/202011240018.jpg";
+		break;
+		case "zzyf":
+			src="repository/image/202011240020.jpg";
+		break;
+		case "dzfzbcs":
+			src="repository/image/202011240022.jpg";
+		break;
+		case "dzxxcjfs":
+			src="repository/image/202011240024.jpg";
+		break;
+		case "rjjhyh":
+			src="repository/image/202011240026.jpg";
+		break;
+		case "sjaqybm":
+			src="repository/image/202011240028.jpg";
+		break;
+		case "jcdagl":
+			src="repository/image/202011240030.jpg";
+		break;
+		case "xtmkh":
+			src="repository/image/202011240032.jpg";
+		break;
+		case "sjjhnl":
+			src="repository/image/202011240034.jpg";
+		break;
+		}
+	}
+	$("#"+tag+"_img").attr("src",src);
+}
+</script>
+<title>智能称重</title>
+<style>
+body{
+	margin:0px;
+}
+.yhtd_div,.hxgnjys_div,.dxal_div{
+	width:1200px;height:30px;line-height:30px;margin:40px auto 0;
+}
+.yhtd_div img,.hxgnjys_div img{
+	margin-top:5px;position:absolute;
+}
+.yhtd_span,.hxgnjys_span,.dxal_span{
+	font-size: 20px;font-weight: bold;font-family: 微软雅黑;color:#666;margin-left:20px;
+}
+.yhtd_img_div{
+	width:1203px;height:182px;margin:40px auto 0;
+}
+.yhtd_img_div .yhtd_img{
+	width:265px;height:180px;
+}
+.yhtd_img_div .siji_img,.yhtd_img_div .jiliang_img,.yhtd_img_div .shuju_img{
+	margin-left:42px;
+}
+.jglc_div{
+	width:1203px;height:720px;margin:40px auto 0;
+}
+.jglc_div .jglc_text_div{
+	width:1203px;height:720px;position: absolute;
+}
+.jglc_img{
+	width:1203px;height:720px;
+}
+.jglc_text_div .jglc_title_span{
+	font-size: 20px;font-weight: bold;font-family: 微软雅黑;color:#666;margin-left:20px;position: absolute;
+}
+.jglc_text_div .glj_span{
+	color:#666;margin-top: 114px;margin-left: 88px;position: absolute;
+}
+.jglc_text_div .scj_span{
+	color:#666;margin-top: 157px;margin-left: 88px;position: absolute;
+}
+.jglc_text_div .ewm_span{
+	color:#666;margin-top: 88px;margin-left: 235px;position: absolute;
+}
+.jglc_text_div .spk_span{
+	color:#666;margin-top: 135px;margin-left: 235px;position: absolute;
+}
+.jglc_text_div .xsq_span{
+	color:#666;margin-top: 173px;margin-left: 235px;position: absolute;
+}
+.jglc_text_div .bbq_span{
+	color:#666;margin-top: 217px;margin-left: 235px;position: absolute;
+}
+.jglc_text_div .qch_span{
+	color:#666;margin-top: 258px;margin-left: 235px;position: absolute;
+}
+.jglc_text_div .yfwq_span{
+	color:#666;font-size: 18px;margin-top: 112px;margin-left: 685px;position: absolute;
+}
+.jglc_text_div .wxwl_span{
+	color:#666;font-size: 18px;margin-top: 175px;margin-left: 685px;position: absolute;
+}
+.jglc_text_div .bdwl_span{
+	color:#666;font-size: 18px;margin-top: 236px;margin-left: 685px;position: absolute;
+}
+.jglc_text_div .cgzz_span{
+	color:#666;font-size: 20px;font-weight: bold;margin-top: 362px;margin-left: 211px;position: absolute;
+}
+.jglc_text_div .gckz_span{
+	color:#666;font-size: 20px;font-weight: bold;margin-top: 362px;margin-left: 432px;position: absolute;
+}
+.jglc_text_div .cswl_span{
+	color:#666;font-size: 20px;font-weight: bold;margin-top: 362px;margin-left: 648px;position: absolute;
+}
+.jglc_text_div .gkpt_span{
+	color:#666;font-size: 20px;font-weight: bold;margin-top: 362px;margin-left: 868px;position: absolute;
+}
+.jglc_text_div .zzkp_span{
+	color:#666;font-size: 18px;margin-top: 477px;margin-left: 468px;position: absolute;
+}
+.jglc_text_div .pfewm_span{
+	color:#999;font-size: 14px;margin-top: 505px;margin-left: 468px;position: absolute;
+}
+.jglc_text_div .zdjl_span{
+	color:#666;font-size: 18px;margin-top: 538px;margin-left: 468px;position: absolute;
+}
+.jglc_text_div .fzbzdh_span{
+	color:#999;font-size: 14px;margin-top: 562px;margin-left: 468px;position: absolute;
+}
+.jglc_text_div .zxgk_span{
+	color:#666;font-size: 18px;margin-top: 596px;margin-left: 468px;position: absolute;
+}
+.jglc_text_div .zhxhqr_span{
+	color:#999;font-size: 14px;margin-top: 620px;margin-left: 468px;position: absolute;
+}
+.jglc_text_div .sjjh_span{
+	color:#666;font-size: 18px;margin-top: 505px;margin-left: 710px;position: absolute;
+}
+.jglc_text_div .jkjrdsfxt_span{
+	color:#999;font-size: 14px;margin-top: 529px;margin-left: 655px;position: absolute;
+}
+.jglc_text_div .sjgl_span{
+	color:#666;font-size: 18px;margin-top: 568px;margin-left: 710px;position: absolute;
+}
+.jglc_text_div .cxtjdrdc_span{
+	color:#999;font-size: 14px;margin-top: 592px;margin-left: 640px;position: absolute;
+}
+.jglc_text_div .yhgl_span{
+	color:#666;font-size: 18px;margin-top: 476px;margin-left: 908px;position: absolute;
+}
+.jglc_text_div .tgnwb_span{
+	color:#999;font-size: 14px;margin-top: 499px;margin-left: 907px;position: absolute;
+}
+.jglc_text_div .ywgl_span{
+	color:#666;font-size: 18px;margin-top: 538px;margin-left: 908px;position: absolute;
+}
+.jglc_text_div .tgcg_span{
+	color:#999;font-size: 14px;margin-top: 562px;margin-left: 907px;position: absolute;
+}
+.jglc_text_div .pcgl_span{
+	color:#666;font-size: 18px;margin-top: 602px;margin-left: 908px;position: absolute;
+}
+.jglc_text_div .tgjh_span{
+	color:#999;font-size: 14px;margin-top: 625px;margin-left: 907px;position: absolute;
+}
+.hxgnjys_img_div{
+	width:1200px;height:675px;margin:40px auto 0;
+}
+.hxgnjys_img_div img{
+	position:absolute;
+}
+.hxgnjys_img_div .hxgnjys_img{
+	width:380px;height:150px;
+}
+.hxgnjys_img_div .xskspt_img{
+	margin-left:410px;
+}
+.hxgnjys_img_div .dzywlx_img{
+	margin-left:820px;
+}
+.hxgnjys_img_div .ydccgk_img{
+	margin-top:175px;
+}
+.hxgnjys_img_div .zzyf_img{
+	margin-top:175px;
+	margin-left:410px;
+}
+.hxgnjys_img_div .dzfzbcs_img{
+	margin-top:175px;
+	margin-left:820px;
+}
+.hxgnjys_img_div .dzxxcjfs_img{
+	margin-top:350px;
+}
+.hxgnjys_img_div .rjjhyh_img{
+	margin-top:350px;
+	margin-left:410px;
+}
+.hxgnjys_img_div .sjaqybm_img{
+	margin-top:350px;
+	margin-left:820px;
+}
+.hxgnjys_img_div .jcdagl_img{
+	margin-top:525px;
+}
+.hxgnjys_img_div .xtmkh_img{
+	margin-top:525px;
+	margin-left:410px;
+}
+.hxgnjys_img_div .sjjhnl_img{
+	margin-top:525px;
+	margin-left:820px;
+}
+.dxal_img_div{
+	width:1201px;height:400px;margin:40px auto 0;
+}
+.dxal_left_text_div{
+	width:575px;height:330px;color:#fff;position:absolute;
+}
+.dxal_left_text_div .title_div{
+	margin-top: 205px;
+	margin-left: 25px;
+}
+.dxal_left_text_div .desc_div{
+	font-size: 14px;
+	line-height: 25px;
+	margin-top: 10px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+.dxal_left_img{
+	width:575px;height:330px;
+}
+.dxal_right_video{
+	width:575px;height:330px;margin-left: 45px;
+}
+
+.info-hore .info-tel2 {
+    height: 120px;
+}
+.info-hore .info-tel2 p {
+    font-size: 15px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    line-height: 45px;
+}
+</style>
+ </head>
+ <body>
+<div id="__nuxt">
+	<!---->
+	<div id="__layout">
+		<div>
+		  <div data-v-b0677670="">
+			  <div class="myhover hidden-md-and-down" data-v-b0677670="">
+				  <div class="myheader" data-v-b0677670="">
+					  <div class="navigation nav-all-all navigationHide" data-v-b0677670="">
+						  <div class="nav-btn" style="height:59px">
+							  <div class="menu menuInit">
+								  <div></div> 
+								  <div></div> 
+								  <div></div>
+							  </div> 
+							  <div class="title">
+								平台<br>能力
+							  </div>
+						  </div> 
+						  <!---->
+					  </div> 
+					  <div id="line" data-v-b0677670="" class=""></div> 
+					  <div class="header-contain" data-v-b0677670="">
+							<div id="logo-icon" data-v-b0677670="" class="">
+								<a href="index.html">
+									<img src="repository/image/logo_fanhuishouye.png" alt="返回首页" style="width:196px;height:60px;" data-v-b0677670="">
+								</a>
+							</div> 
+							<div class="but-list" data-v-b0677670="" style="margin-right: 260px;">
+								<div class="but-style" data-v-b0677670="">
+									<a href="index.html">
+										<div class="out-link" data-v-b0677670="">首页</div>
+									</a>
+								</div> 
+								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
+									<a href="thingsMes.html">
+										<div class="out-link" data-v-b0677670="">物联MES</div>
+									</a>
+								</div>						
+								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
+									<a href="thingsPerFix.html">
+										<div class="out-link" data-v-b0677670="">物联人员定位</div>
+									</a>
+								</div>							
+								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
+									<a href="intellectWeight.html">
+										<div class="out-link" data-v-b0677670="">智能称重</div>
+									</a>
+								</div> 				
+								<div class="but-style" style="margin-left:50px" data-v-b0677670="">
+									<a href="aboutUs.html">
+										<div class="out-link" data-v-b0677670="">关于我们</div>
+									</a>
+								</div> 
+							</div>
+					  </div>
+				  </div> 			
+			  </div> 		  
+		  </div> 
+		  
+		  <div class="page-component-up" style="display:none">
+			<i class="el-icon-arrow-up"></i>
+		  </div> 
+		  
+		  <div class="footer" data-v-fb83ed8e="">
+		  </div>
+		</div>
+	</div>
+</div>
+
+
+
+  <div>
+	<img src="repository/image/202011240001.jpg"/>
+  </div>
+  <div class="yhtd_div">
+	<img src="repository/image/202011240002.jpg"/>
+	<span class="yhtd_span">用户痛点</span>
+  </div>
+  <div class="yhtd_img_div">
+	<img class="yhtd_img" id="rg_img" src="repository/image/202011240003.jpg" onmouseover="changeImgSrc('rg',1)" onmouseout="changeImgSrc('rg',0)"/>
+	<img class="yhtd_img siji_img" id="siji_img" src="repository/image/202011240005.jpg" onmouseover="changeImgSrc('siji',1)" onmouseout="changeImgSrc('siji',0)"/>
+	<img class="yhtd_img jiliang_img" id="jiliang_img" src="repository/image/202011240007.jpg" onmouseover="changeImgSrc('jiliang',1)" onmouseout="changeImgSrc('jiliang',0)"/>
+	<img class="yhtd_img shuju_img" id="shuju_img" src="repository/image/202011240009.jpg" onmouseover="changeImgSrc('shuju',1)" onmouseout="changeImgSrc('shuju',0)"/>
+  </div>
+  <div class="jglc_div">
+	<div class="jglc_text_div">
+		<span class="jglc_title_span">架构流程</span>
+		<span class="glj_span">栏杆机</span>
+		<span class="scj_span">手持机</span>
+		<span class="ewm_span">二维码</span>
+		<span class="spk_span">射频卡</span>
+		<span class="xsq_span">显示器</span>
+		<span class="bbq_span">播报器</span>
+		<span class="qch_span">汽车衡</span>
+		<span class="yfwq_span">云服务器</span>
+		<span class="wxwl_span">无线网络</span>
+		<span class="bdwl_span">本地网络</span>
+		<span class="cgzz_span">传感装置</span>
+		<span class="gckz_span">过程控制</span>
+		<span class="cswl_span">传输网络</span>
+		<span class="gkpt_span">管控平台</span>
+		<span class="zzkp_span">自助卡票</span>
+		<span class="pfewm_span">派发二维码、射频卡</span>
+		<span class="zdjl_span">自动计量</span>
+		<span class="fzbzdh_span">防作弊、自动化</span>
+		<span class="zxgk_span">装卸管控</span>
+		<span class="zhxhqr_span">装货/卸货确认</span>
+		<span class="sjjh_span">数据交互</span>
+		<span class="jkjrdsfxt_span">接口接入第三方系统</span>
+		<span class="sjgl_span">数据管理</span>
+		<span class="cxtjdrdc_span">查询、统计、导入导出</span>
+		<span class="yhgl_span">用户管理</span>
+		<span class="tgnwb_span">提供内/外部等自定角色</span>
+		<span class="ywgl_span">业务管理</span>
+		<span class="tgcg_span">提供采购、销售、调拨倒运</span>
+		<span class="pcgl_span">派车管理</span>
+		<span class="tgjh_span">提供计划、预约、固定</span>
+	</div>
+	<img class="jglc_img" src="repository/image/202011240011.jpg"/>
+  </div>
+  <div class="hxgnjys_div">
+	<img src="repository/image/202011240002.jpg"/>
+	<span class="hxgnjys_span">核心功能及优势</span>
+  </div>
+  <div class="hxgnjys_img_div">
+	<img class="hxgnjys_img" id="djyhgl_img" src="repository/image/202011240012.jpg" onmouseover="changeImgSrc('djyhgl',1)" onmouseout="changeImgSrc('djyhgl',0)"/>
+	<img class="hxgnjys_img xskspt_img" id="xskspt_img" src="repository/image/202011240014.jpg" onmouseover="changeImgSrc('xskspt',1)" onmouseout="changeImgSrc('xskspt',0)"/>
+	<img class="hxgnjys_img dzywlx_img" id="dzywlx_img" src="repository/image/202011240016.jpg" onmouseover="changeImgSrc('dzywlx',1)" onmouseout="changeImgSrc('dzywlx',0)"/>
+	<img class="hxgnjys_img ydccgk_img" id="ydccgk_img" src="repository/image/202011240018.jpg" onmouseover="changeImgSrc('ydccgk',1)" onmouseout="changeImgSrc('ydccgk',0)"/>
+	<img class="hxgnjys_img zzyf_img" id="zzyf_img" src="repository/image/202011240020.jpg" onmouseover="changeImgSrc('zzyf',1)" onmouseout="changeImgSrc('zzyf',0)"/>
+	<img class="hxgnjys_img dzfzbcs_img" id="dzfzbcs_img" src="repository/image/202011240022.jpg" onmouseover="changeImgSrc('dzfzbcs',1)" onmouseout="changeImgSrc('dzfzbcs',0)"/>
+	<img class="hxgnjys_img dzxxcjfs_img" id="dzxxcjfs_img" src="repository/image/202011240024.jpg" onmouseover="changeImgSrc('dzxxcjfs',1)" onmouseout="changeImgSrc('dzxxcjfs',0)"/>
+	<img class="hxgnjys_img rjjhyh_img" id="rjjhyh_img" src="repository/image/202011240026.jpg" onmouseover="changeImgSrc('rjjhyh',1)" onmouseout="changeImgSrc('rjjhyh',0)"/>
+	<img class="hxgnjys_img sjaqybm_img" id="sjaqybm_img" src="repository/image/202011240028.jpg" onmouseover="changeImgSrc('sjaqybm',1)" onmouseout="changeImgSrc('sjaqybm',0)"/>
+	<img class="hxgnjys_img jcdagl_img" id="jcdagl_img" src="repository/image/202011240030.jpg" onmouseover="changeImgSrc('jcdagl',1)" onmouseout="changeImgSrc('jcdagl',0)"/>
+	<img class="hxgnjys_img xtmkh_img" id="xtmkh_img" src="repository/image/202011240032.jpg" onmouseover="changeImgSrc('xtmkh',1)" onmouseout="changeImgSrc('xtmkh',0)"/>
+	<img class="hxgnjys_img sjjhnl_img" id="sjjhnl_img" src="repository/image/202011240034.jpg" onmouseover="changeImgSrc('sjjhnl',1)" onmouseout="changeImgSrc('sjjhnl',0)"/>
+  </div>
+  <div class="dxal_div">
+	<img src="repository/image/202011240002.jpg"/>
+	<span class="dxal_span">典型案例</span>
+  </div>
+  <div class="dxal_img_div">
+	<div class="dxal_left_text_div">
+		<div class="title_div">索通集团无人值守智能门禁称重管理系统</div>
+		<div class="desc_div">项目位于德州、滨州共三个厂区，通过智能门禁无人值守称重系统，实现货运车辆根据订单自动有序入场，自动上磅称重，数据自动上传，助力企业数字化转型和减员增效。</div>
+	</div>
+	<img class="dxal_left_img" src="repository/image/202011240036.jpg"/>
+	<video class="dxal_right_video" controls="" preload="none" x5-playsinline="" playsinline="" webkit-playsinline="" poster="repository/image/202011240038.png">
+		<source src="repository/embed/202011240037.mp4">
+	</video>
+  </div>
+
+
+<!--w_grid-1568271949559_start-->
+<div id="w_grid-1568271949559" class="w_grid-000">
+	<div class="w_grid signal">   
+		<div class="e_box e_box-000 p_gridbox">         
+			<div id="content_box-1568271949559-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+				<div id="c_portalResGroupNavNew_main-15687231254459749" class="c_portalResGroupNavNew_main-01001" loaded="true" style="overflow: visible;"> 
+					<div class="layui-fluid footer">
+						<div class="layui-container">
+							  <div class="footer-info clearfix">
+									<div class="layui-col-md6">
+										  <div class="info-hore info-hore1">
+											  <div class="info-tel2 clearfix">
+												  <div class="info-tell">
+													  <p>资讯热线：0532-55588351&nbsp;&nbsp;15712773653（微信同号）</p>
+													  <p>邮箱地址：qdhualing@126.com</p>
+													  <p>自动化控制系统集成网址：www.qdhualing.com</p>
+												  </div>
+											  </div>
+										  </div>
+									</div>
+							  </div>
+							  <div class="clearfix"></div>
+						</div>
+					</div>
+				</div>
+				<div id="w_grid-1568615814151" class="w_grid-000">
+					<div class="w_grid signal">   
+						<div class="e_box e_box-000 p_gridbox">         
+							<div id="content_box-1568615814151-0" class="e_box e_box-000 d_gridCell_0 p_gridCell">
+								<div id="c_portalResGroupWebsite_info-15686156719380864" class="c_portalResGroupWebsite_info-01001" loaded="true" style="overflow: visible;"> 
+									<div class="e_box p_contentBox">
+									  <div class="bqxx">
+										  <p>青岛辰麒数维软件有限公司  <a href="http://www.beian.miit.gov.cn" style="color:#999;">鲁ICP备19062226号-4</a></p>
+									  </div>
+									</div>
+								</div>
+							</div>       
+						</div>  
+					</div>
+				</div>
+			</div>       
+		</div>  
+	</div>
+</div>
+<!--w_grid-1568271949559_end-->
+</body>
+</html>

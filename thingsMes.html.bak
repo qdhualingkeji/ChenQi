@@ -12,6 +12,18 @@
   <script id="xiaonengjs" src="visitor/js/xiaoneng.js?siteid=kf_10024" data-n-head="true"></script>
   <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
   <script type="text/javascript">
+	var system ={};  
+	var p = navigator.platform;       
+	system.win = p.indexOf("Win") == 0;  
+	system.mac = p.indexOf("Mac") == 0;  
+	system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);     
+	if(system.win||system.mac||system.xll){//如果是电脑访问，就默认本页面了，不执行任何操作了
+	   
+	}
+	else{//如果是手机,跳转到
+	   window.location.href="ChenQiPh/thingsMes.html";
+	}
+
   var swiperPageIndex=0;
   $(function(){
 	  setInterval("changeSwiperPage()","5000","1000");
