@@ -495,8 +495,8 @@ body{
 	</div>
 	<img class="dxal_left_img" src="repository/image/202011240036.jpg"/>
 	<video class="dxal_right_video" controls="" preload="none" x5-playsinline="" playsinline="" webkit-playsinline="" poster="repository/image/202011240038.png">
-			<source src="repository/embed/202011240037.mp4">
-        </video>
+		<source src="repository/embed/202011240037.mp4">
+	</video>
   </div>
 
 
